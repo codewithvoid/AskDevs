@@ -1,3 +1,5 @@
+import { TwitterShareButton } from "react-share";
+
 export async function getServerSideProps(context) {
   const { req } = context;
   let users = {};
@@ -21,7 +23,8 @@ export default function Home({ users }) {
           AskDevs
         </h1>
       </header>
-      <main class="bg-gradient-to-r from-rose-100 to-teal-100 h-screen">
+
+      <main class="bg-gradient-to-r from-rose-100 to-teal-100">
         <section class="container mx-auto px-5 pt-10">
           <h1 class="my-4 text-5xl font-bold leading-tight">
             Got a technical question?
@@ -29,6 +32,39 @@ export default function Home({ users }) {
           <p class="mb-8 text-3xl leading-normal">
             Ask our tech twitter volunteers!
           </p>
+        </section>
+
+        <section class="container  mx-auto body-font h-screen min-h-screen text-gray-600 px-5 py-10">
+          <div class="-m-4 flex flex-wrap">
+            <div class="w-full p-4 md:w-1/2 lg:w-1/4">
+              <div class="bg-white font-semibold text-center rounded-3xl border shadow-lg p-10 max-w-xs">
+                <img
+                  class="mb-3 w-32 h-32 rounded-full shadow-lg mx-auto"
+                  src="https://avatars.githubusercontent.com/u/104728441?v=4"
+                  alt="product designer"
+                />
+                <h1 class="text-lg text-gray-700"> Void⚡</h1>
+                <h3 class="text-sm text-gray-400 "> Programming </h3>
+                <p class="text-xs text-gray-400 mt-4">
+                  Senior SWE | Bootcamp Mentor | Follow for tweets 🐦 threads
+                  🧵spaces🎙️ that will help you become top 1% developer
+                </p>
+                {/* <TwitterShareButton class="bg-indigo-600 px-8 py-2 mt-8 rounded-3xl text-gray-100 font-semibold uppercase tracking-wide">
+                  Tweet
+                </TwitterShareButton> */}
+
+                <TwitterShareButton
+                  title={"@codewithvoid <add your question here>"}
+                  url={"https://ask-devs.vercel.app/"}
+                  hashtags={["AskDevs", "programming"]}
+                >
+                  <div class="bg-indigo-600 px-8 py-2 mt-8 rounded-3xl text-gray-100 font-semibold uppercase tracking-wide">
+                    Tweet
+                  </div>
+                </TwitterShareButton>
+              </div>
+            </div>
+          </div>
         </section>
       </main>
     </div>
