@@ -16,8 +16,21 @@ export async function getServerSideProps(context) {
 export default function Home({ users }) {
   return (
     <div>
-      <h1 className="font-medium leading-tight text-5xl mt-0 mb-">Ask Devs</h1>
-      <code>{JSON.stringify({ res: users })}</code>
+      <header class="flex flex-wrap items-start justify-around bg-black p-3 text-gray-100">
+        <h1 class="text-4xl font-extrabold tracking-tighter text-white sm:text-5xl lg:text-7xl">
+          AskDevs
+        </h1>
+      </header>
+      <main class="bg-gradient-to-r from-rose-100 to-teal-100 h-screen">
+        <section class="container mx-auto px-5 pt-10">
+          <h1 class="my-4 text-5xl font-bold leading-tight">
+            Got a technical question?
+          </h1>
+          <p class="mb-8 text-3xl leading-normal">
+            Ask our tech twitter volunteers!
+          </p>
+        </section>
+      </main>
     </div>
   );
 }
