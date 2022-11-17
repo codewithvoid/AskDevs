@@ -1,0 +1,14 @@
+{
+  "name": "Void",
+  "bio": "Senior Dev",
+  "image": "https://avatars.githubusercontent.com/u/104728441?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["python", "javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "codewithvoid"
+  }
+}

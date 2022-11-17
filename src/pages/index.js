@@ -2,20 +2,24 @@ import { TwitterShareButton } from "react-share";
 
 export async function getServerSideProps(context) {
   const { req } = context;
-  let users = {};
+  let users, categories;
   try {
-    const res = await fetch(`http://${req.headers.host}/api/users`);
-    users = await res.json();
+    const usersResponse = await fetch(`http://${req.headers.host}/api/users`);
+    users = await usersResponse.json();
+    const categoriesResponse = await fetch(
+      `http://${req.headers.host}/categories.json`
+    );
+    categories = await categoriesResponse.json();
   } catch (e) {
     console.log("Error occurred while fetching users", e);
   }
 
   return {
-    props: { users },
+    props: { users, categories },
   };
 }
 
-export default function Home({ users }) {
+export default function Home({ users, categories }) {
   return (
     <div>
       <header class="flex flex-wrap items-start justify-around bg-black p-3 text-gray-100">
@@ -32,6 +36,13 @@ export default function Home({ users }) {
           <p class="mb-8 text-3xl leading-normal">
             Ask our tech twitter volunteers!
           </p>
+          <div class="flex flex-wrap space-x-2">
+            {categories.map((category) => (
+              <button class="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold text-black hover:bg-black hover:text-white">
+                {category.name}
+              </button>
+            ))}
+          </div>
         </section>
 
         <section class="container  mx-auto body-font h-screen min-h-screen text-gray-600 px-5 py-10">
@@ -49,10 +60,6 @@ export default function Home({ users }) {
                   Senior SWE | Bootcamp Mentor | Follow for tweets 🐦 threads
                   🧵spaces🎙️ that will help you become top 1% developer
                 </p>
-                {/* <TwitterShareButton class="bg-indigo-600 px-8 py-2 mt-8 rounded-3xl text-gray-100 font-semibold uppercase tracking-wide">
-                  Tweet
-                </TwitterShareButton> */}
-
                 <TwitterShareButton
                   title={"@codewithvoid <add your question here>"}
                   url={"https://ask-devs.vercel.app/"}

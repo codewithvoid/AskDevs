@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 
 export default async function handler(req, res) {
-  const directoryPath = path.join(process.cwd(), "data");
+  const directoryPath = path.join(process.cwd(), "data/users");
   const files = fs.readdirSync(directoryPath);
 
   const users = files.map((file) => ({

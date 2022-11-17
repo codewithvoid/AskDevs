@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Programming",
+    "slug": "programming"
+  },
+  {
+    "name": "Software Development",
+    "slug": "software-development"
+  },
+  {
+    "name": "Web Development",
+    "slug": "web-development"
+  },
+  {
+    "name": "Mobile Development",
+    "slug": "mobile-development"
+  },
+  {
+    "name": "Data Science",
+    "slug": "data-science"
+  }
+]
