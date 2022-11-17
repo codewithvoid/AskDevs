@@ -79,14 +79,12 @@ export default function Home({ users, categories }) {
               <div class="bg-white font-semibold text-center rounded-3xl border shadow-lg p-10 max-w-xs">
                 <img
                   class="mb-3 w-32 h-32 rounded-full shadow-lg mx-auto"
-                  src="https://avatars.githubusercontent.com/u/104728441?v=4"
+                  src="https://pbs.twimg.com/profile_images/1582120519872442368/fkJtg-xu_400x400.jpg"
                   alt="product designer"
                 />
                 <h1 class="text-lg text-gray-700"> Shubhi⚡</h1>
                 <h3 class="text-sm text-gray-400 "> Web Development </h3>
                 <p class="text-xs text-gray-400 mt-4">
-                  Senior SWE | Bootcamp Mentor | Follow for tweets 🐦 threads
-                  🧵spaces🎙️ that will help you become top 1% developer
                   Software Engineer • Open Source • Designer and Developer • Technical writer
                 </p>
                 <TwitterShareButton
