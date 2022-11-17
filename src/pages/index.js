@@ -73,6 +73,35 @@ export default function Home({ users, categories }) {
             </div>
           </div>
         </section>
+        <section class="container  mx-auto body-font h-screen min-h-screen text-gray-600 px-5 py-10">
+          <div class="-m-4 flex flex-wrap">
+            <div class="w-full p-4 md:w-1/2 lg:w-1/4">
+              <div class="bg-white font-semibold text-center rounded-3xl border shadow-lg p-10 max-w-xs">
+                <img
+                  class="mb-3 w-32 h-32 rounded-full shadow-lg mx-auto"
+                  src="https://avatars.githubusercontent.com/u/104728441?v=4"
+                  alt="product designer"
+                />
+                <h1 class="text-lg text-gray-700"> Shubhi⚡</h1>
+                <h3 class="text-sm text-gray-400 "> Web Development </h3>
+                <p class="text-xs text-gray-400 mt-4">
+                  Senior SWE | Bootcamp Mentor | Follow for tweets 🐦 threads
+                  🧵spaces🎙️ that will help you become top 1% developer
+                  Software Engineer • Open Source • Designer and Developer • Technical writer
+                </p>
+                <TwitterShareButton
+                  title={"@heyshubhi <add your question here>"}
+                  url={"https://ask-devs.vercel.app/"}
+                  hashtags={["AskDevs", "Webdevelopment"]}
+                >
+                  <div class="bg-indigo-600 px-8 py-2 mt-8 rounded-3xl text-gray-100 font-semibold uppercase tracking-wide">
+                    Tweet
+                  </div>
+                </TwitterShareButton>
+              </div>
+            </div>
+          </div>
+        </section>
       </main>
     </div>
   );
