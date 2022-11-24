@@ -1,7 +1,7 @@
 # AskDevs👩‍💻👨‍💻
 Tweet your technical questions to tech twitter volunteers.
 
-![Ask Dev demo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8lh8zorj818yy0zn1ged.gif)
+
 
 ## 👨‍💻 Demo
 
