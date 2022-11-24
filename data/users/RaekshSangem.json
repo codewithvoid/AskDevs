@@ -1,0 +1,14 @@
+{
+  "name": "Rakesh Sangem",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/107752425?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "RakeshSangem8"
+  }
+}
