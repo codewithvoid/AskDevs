@@ -1,0 +1,14 @@
+{
+  "name": "Ritika Agrawal",
+  "bio": "Frontend Dev",
+  "image": "https://avatars.githubusercontent.com/u/65513097?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["CSS", "JavaScript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "RitikaAgrawal08"
+  }
+}
