@@ -1,18 +1,18 @@
 {
-    "name": "Aarya Chopkar",
-    "bio": "Frontend Developer",
-    "image": "https://avatars.githubusercontent.com/u/101868279?v=4",
-    "categories": [
-      {
-        "slug": "web-development",
-        "topics": ["react", "javascript"]
-      },
-      {
-        "slug": "programming",
-        "topics": ["python"]
-      }
-    ],
-    "contacts": {
-      "twitter": "ChopkarAarya"
+  "name": "Aarya Chopkar",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/101868279?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["react", "javascript"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["python"]
     }
+  ],
+  "contacts": {
+    "twitter": "ChopkarAarya"
+  }
 }
