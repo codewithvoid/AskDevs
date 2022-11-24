@@ -1,0 +1,14 @@
+{
+  "name": "Jaynarayan Vaishnav",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/54346106?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "jaystwtt"
+  }
+}
