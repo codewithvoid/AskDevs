@@ -36,7 +36,7 @@ You can use Gitpod in the cloud or you can set this up locally with the followin
 
 
 
-Alternatively, skip all the steps by using [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EddieHubCommunity/LinkFree/)
+Alternatively, skip all the steps by using [![Gitpod Ready-to-Code]()
 
 
 ## 🎭 To Add Your Profile
@@ -44,7 +44,7 @@ Alternatively, skip all the steps by using [![Gitpod Ready-to-Code](https://img.
 
 ## 🛡️ License
 
-LinkFree is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+LinkFree is licensed under the MIT License - see the []() file for details.
 
 ## 💪 Thanks to all Contributors
 
