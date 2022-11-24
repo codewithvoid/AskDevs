@@ -31,7 +31,7 @@ STEPS :
 
 ## 🙌 Thanks to all Contributors
 
-Thanks a lot for spending your time helping LinkFree grow. Thanks a lot! Keep rocking 🍻
+Thanks a lot for spending your time. Thanks a lot! Keep rocking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=codewithvoid/AskDevs)](https://github.com/codewithvoid/AskDevs/graphs/contributors)
 
