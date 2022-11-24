@@ -1,11 +1,11 @@
 {
   "name": "Shivendu Kumar",
-  "bio": "Android Dev",
+  "bio": "Android Developer",
   "image": "https://avatars.githubusercontent.com/u/86725834?v=4",
   "categories": [
     {
-      "slug": "app-development",
-      "topics": ["Kotlin"]
+      "slug": "mobile-development",
+      "topics": ["android"]
     }
   ],
   "contacts": {
