@@ -14,7 +14,7 @@ STEPS :
 ```json
 {
   "name": "<YOUR NAME>",
-  "bio": "e.g Java Developer | Web Dev | ",
+  "bio": "e.g Java Developer | Web Dev | Senior Dev ",
   "image": "<Image URL>",
   "categories": [
     {
@@ -27,7 +27,7 @@ STEPS :
   }
 }
 ```
-3. Create new PR with title 'Add new volunteer <Your name>'
+3. Create new PR with title Add new volunteer <Your name>.
 
 ## 🙌 Thanks to all Contributors
 
