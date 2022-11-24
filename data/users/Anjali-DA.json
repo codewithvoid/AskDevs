@@ -4,10 +4,10 @@
   "image": "https://pbs.twimg.com/profile_images/1586668940780240896/eQpl4gr3_400x400.jpg",
   "categories": [
     {
-      "slug": "Data-Science",
+      "slug": "data-science",
       "topics": [
-        "Python",
-        "Kaggle"
+        "python",
+        "kaggle"
       ]
     }
   ],
