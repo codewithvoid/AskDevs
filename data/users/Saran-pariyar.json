@@ -1,0 +1,14 @@
+{
+  "name": "Saran Pariyar",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/86418083",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["react","CSS", "javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "saran_pariyar1"
+  }
+}
