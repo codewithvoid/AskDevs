@@ -6,10 +6,10 @@ export async function getServerSideProps(context) {
   const { req } = context;
   let users, categories;
   try {
-    const usersResponse = await fetch(`http://localhost:3000/api/users`);
+    const usersResponse = await fetch(`http://${req.headers.host}/api/users`);
     users = await usersResponse.json();
     const categoriesResponse = await fetch(
-      `http://localhost:3000/categories.json`
+      `http://${req.headers.host}/categories.json`
     );
     categories = await categoriesResponse.json();
   } catch (e) {
