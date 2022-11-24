@@ -1,0 +1,17 @@
+{
+  "name": "Anjali Pant",
+  "bio": "Data analyst",
+  "image": "https://avatars.githubusercontent.com/u/98269318?s=400&u=a8ec71e9651c97cc3e3b6990459e7542698f75b2&v=4",
+  "categories": [
+    {
+      "slug": "data-science",
+      "topics": [
+        "python",
+        "kaggle"
+      ]
+    }
+  ],
+  "contacts": {
+    "twitter": "AnjaliPant"
+  }
+}
