@@ -4,9 +4,22 @@
     "image": "https://avatars.githubusercontent.com/u/72974932?v=4",
     "categories": [
         {
-            "slug": "Programming | Blockchain | Full-stack-development",
-            "topics": ["JavaScript", "TypeScript", "Go", "Blockchain"]
+            "slug": "programming",
+            "topics": ["javascript","java","go","rust","android","blockhain"]
+        },
+        {
+            "slug": "mobile-development",
+            "topics": ["android","java","kotlin","flutter","dart","react-native","javascript"]
+        },
+        {
+            "slug": "web-development",
+            "topics": ["javascript","CSS","HTML","typescript","react","nodejs"]
+        },
+        {
+            "slug": "software-development",
+            "topics": ["javascript","CSS","HTML","typescript","react","nodejs"]
         }
+      
     ],
     "contacts": {
         "twitter": "codewithYaku"
