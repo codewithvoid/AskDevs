@@ -1,12 +1,12 @@
 {
   "name": "Graham Zemel",
-  "bio": "Full-Stack Developer - grahamzemel.com",
-  "image": "https://grahamzemel.com/logo.webp",
+  "bio": "Full-Stack Developer",
+  "image": "https://avatars.githubusercontent.com/u/69569628?v=4",
   "categories": [
     {
       "slug": "programming",
-      "topics": ["javascript", "svelte", "tailwind", "python"]
-    }
+      "topics": ["javascript", "bash", "python"]
+    },
     {
       "slug": "web-development",
       "topics": ["javascript", "cybersecurity"]
