@@ -1,0 +1,14 @@
+{
+  "name": "Abhishek Anand",
+  "bio": "Full Stack Developer",
+  "image": "https://avatars.githubusercontent.com/u/41264611?s=400&u=7883b5cdb5ab3fb59fa46a7562fd0ce46e0f8763&v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["react","CSS", "javascript","nodejs","Expressjs"]
+    }
+  ],
+  "contacts": {
+    "twitter": "abhirk247"
+  }
+}
