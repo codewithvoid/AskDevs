@@ -1,11 +1,11 @@
 {
   "name": "Prakhar Tiwari",
-  "bio": "Student Web Developer | Tech Creator",
+  "bio": "Web Developer",
   "image": "https://avatars.githubusercontent.com/u/65062036?v=4",
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["javascript","html", "css", "python", "git", "github", "open-source"]
+      "topics": ["javascript","html", "css"]
     }
   ],
   "contacts": {
