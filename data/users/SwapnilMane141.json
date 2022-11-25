@@ -1,10 +1,10 @@
 {
   "name": "Swapnil Mane",
-  "bio": "Frontend Web Developer & Data Extraction Expert",
+  "bio": "Frontend Developer",
   "image": "https://avatars.githubusercontent.com/u/66281302?v=4",
   "categories": [
     {
-      "slug": "programming | web-development | web scraping",
+      "slug": "programming",
       "topics": ["javascript","python"]
     }
   ],
