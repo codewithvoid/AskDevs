@@ -5,19 +5,19 @@
     "categories": [
         {
             "slug": "programming",
-            "topics": ["javascript","java","go","rust","android","blockhain"]
+            "topics": ["javascript","blockhain"]
         },
         {
             "slug": "mobile-development",
-            "topics": ["android","java","kotlin","flutter","dart","react-native","javascript"]
+            "topics": ["android","java","kotlin"]
         },
         {
             "slug": "web-development",
-            "topics": ["javascript","CSS","HTML","typescript","react","nodejs"]
+            "topics": ["javascript","CSS"]
         },
         {
             "slug": "software-development",
-            "topics": ["javascript","CSS","HTML","typescript","react","nodejs"]
+            "topics": ["Python","Go"]
         }
       
     ],
