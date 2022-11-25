@@ -1,11 +1,11 @@
 {
   "name": "Ajeet Patel",
-  "bio": "C++, Data Structures and Algorithms",
+  "bio": "Programmer",
   "image": "https://avatars.githubusercontent.com/u/54282815?v=4",
   "categories": [
     {
       "slug": "programming",
-      "topics": ["C++", "Data structures and Algorithms"]
+      "topics": ["C++", "Data structures", "Algorithms"]
     }
   ],
   "contacts": {
