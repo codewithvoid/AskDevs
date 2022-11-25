@@ -1,0 +1,14 @@
+{
+  "name": "Philips O.",
+  "bio": "Software Developer",
+  "image": "https://avatars.githubusercontent.com/u/81332784?s=96&v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["javascript", "python"]
+    }
+  ],
+  "contacts": {
+    "twitter": "kellsonphilips"
+  }
+}
