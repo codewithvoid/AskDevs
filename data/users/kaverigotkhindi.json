@@ -1,0 +1,14 @@
+{
+  "name": "Kaveri",
+  "bio": "Web Developer",
+  "image": "https://pbs.twimg.com/profile_images/1488460804227997698/rPSir7Zj_400x400.jpg",
+  "categories": [
+    {
+      "slug": " web-development | software testing | SQL ",
+      "topics": ["HTML","CSS","Testing"," Databases","SQL"]
+    }
+  ],
+  "contacts": {
+    "twitter": "kaveri04"
+  }
+}
