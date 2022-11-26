@@ -1,6 +1,8 @@
+// Before merging, I need to send the logo file. After adding the logo to the assets dir
+// uncomment Line 5 and Line 84
 import { TwitterShareButton } from "react-share";
 import { useState, useEffect } from 'react';
-import darkLogo from '../assets/logo/dark.png'; // askdev dark logo
+// import darkLogo from '../assets/logo/dark.png'; // askdev dark logo
 
 export async function getServerSideProps(context) {
   const { req } = context;
@@ -79,7 +81,7 @@ export default function Home({ users, categories }) {
       {/* navbar */}
       <header className="flex flex-wrap items-start" style={{ "background-color": "#020D1E", "position": "sticky", "top": 0 }}>
         <a href="/">
-          <img src={darkLogo.src} className="pl-3" width="80" alt="dark logo" />
+          {/* <img src={darkLogo.src} className="pl-3" width="80" alt="dark logo" /> */}
         </a>
       </header>
 
