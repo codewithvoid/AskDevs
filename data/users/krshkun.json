@@ -14,7 +14,7 @@
     {
       "slug": "programming",
       "topics": ["javascript", "node", "typescript", "discordjs", "nestjs"]
-    },
+    }
   ],
   "contacts": {
     "twitter": "krshkun'
