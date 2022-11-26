@@ -1,0 +1,14 @@
+{
+  "name": "Mayank Kumar Sharma",
+  "bio": "Web Dev",
+  "image": "https://avatars.githubusercontent.com/u/62908116?v=4",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development",
+      "topics": ["JavaScript","React"]
+    }
+  ],
+  "contacts": {
+    "twitter": "KsMayank"
+  }
+}
