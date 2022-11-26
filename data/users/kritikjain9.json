@@ -1,0 +1,14 @@
+{
+  "name": "Kritik Jain",
+  "bio": "Frontend Dev",
+  "image": "https://twitter.com/_kritikjain/photo",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development",
+      "topics": []
+    }
+  ],
+  "contacts": {
+    "twitter": "_kritikjain"
+  }
+}
