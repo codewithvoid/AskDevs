@@ -1,10 +1,10 @@
 {
   "name": "Ibukunoluwa Naphtali",
-  "bio": "💻 • any software development | 🥗 • gets better with food | 🎧 • while listening to beats | 🕹️ • after the game night | creator of flutterme.org",
+  "bio": "A software developer working with Flutter, ReactJS and NodeJS. Creator of flutterme.org",
   "image": "https://avatars.githubusercontent.com/u/61067520",
   "categories": [
     {
-      "slug": "programming | software-development | web-development | mobile-development | data-science",
+      "slug": "software-development",
       "topics": ["Frontend","Flutter", "ReactJS", "NodeJS"]
     }
   ],
