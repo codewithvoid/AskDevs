@@ -1,0 +1,22 @@
+{
+  "name": "Krish Gupta",
+  "bio": "Developer Advocate",
+  "image": "https://github.com/krshkun.png",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["javascript", "CSS", "react", "next", "pwa"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["git", "github", "opensource", "automation"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["javascript", "node", "typescript", "discordjs", "nestjs"]
+    },
+  ],
+  "contacts": {
+    "twitter": "krshkun'
+  }
+}
