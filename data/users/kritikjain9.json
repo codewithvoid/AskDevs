@@ -1,0 +1,14 @@
+{
+  "name": "Kritik Jain",
+  "bio": "Frontend Dev",
+  "image": "https://drive.google.com/file/d/1E-vACEVUjdzW8I6HKGszI7icru50RLH0/view?usp=share_link",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development | Data Structures and Algorithms",
+      "topics": []
+    }
+  ],
+  "contacts": {
+    "twitter": "_kritikjain"
+  }
+}
