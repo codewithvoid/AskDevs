@@ -1,0 +1,27 @@
+{
+    "name": "Yaku",
+    "bio": "Full-Stack developer",
+    "image": "https://avatars.githubusercontent.com/u/72974932?v=4",
+    "categories": [
+        {
+            "slug": "programming",
+            "topics": ["javascript","blockhain"]
+        },
+        {
+            "slug": "mobile-development",
+            "topics": ["android","java","kotlin"]
+        },
+        {
+            "slug": "web-development",
+            "topics": ["javascript","CSS"]
+        },
+        {
+            "slug": "software-development",
+            "topics": ["Python","Go"]
+        }
+      
+    ],
+    "contacts": {
+        "twitter": "codewithYaku"
+    }
+}

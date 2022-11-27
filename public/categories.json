@@ -18,5 +18,9 @@
   {
     "name": "Data Science",
     "slug": "data-science"
+  },
+  {
+    "name": "Blockchain Development",
+    "slug": "blockchain"
   }
 ]
