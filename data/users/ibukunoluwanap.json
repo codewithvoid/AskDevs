@@ -1,11 +1,20 @@
 {
   "name": "Ibukunoluwa Naphtali",
-  "bio": "Software developer, Frontend developer, Designer",
+  "bio": "Software Developer",
   "image": "https://avatars.githubusercontent.com/u/61067520",
   "categories": [
     {
-      "slug": "software-development",
-      "topics": ["Frontend","Flutter", "ReactJS", "NodeJS"]
+      "slug": "web-development",
+      "topics": [
+        "ReactJS",
+        "NodeJS"
+      ]
+    },
+    {
+      "slug": "mobile-development",
+      "topics": [
+        "Flutter"
+      ]
     }
   ],
   "contacts": {
