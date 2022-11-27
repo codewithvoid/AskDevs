@@ -1,0 +1,22 @@
+{
+    "name": "Abdlrahman Saber",
+    "bio": "Software engineer",
+    "image": "https://avatars.githubusercontent.com/u/29666390?v=4",
+    "categories": [
+      {
+        "slug": "web-development",
+        "topics": ["javascript", "typescript", "laravel", "nestJs", "vueJs"]
+      },
+      {
+        "slug": "programming",
+        "topics": ["python", "php", "javascript", "typescript"]
+      },
+      {
+        "slug": "programming-topics",
+        "topics": ["microservices", "messaging services", "clean-code", "design-pattern"]
+      }
+    ],
+    "contacts": {
+      "twitter": "Abdlrahmansabe4"
+    }
+  }
