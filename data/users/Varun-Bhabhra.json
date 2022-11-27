@@ -1,0 +1,14 @@
+{
+  "name": "Varun Bhabhra",
+  "bio": "Web Deveveloper",
+  "image": "https://avatars.githubusercontent.com/u/75928040?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["CSS", "javascript", "React"]
+    }
+  ],
+  "contacts": {
+    "twitter": "VBhabhra"
+  }
+}
