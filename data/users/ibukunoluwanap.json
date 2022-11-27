@@ -1,0 +1,23 @@
+{
+  "name": "Ibukunoluwa Naphtali",
+  "bio": "Software Developer",
+  "image": "https://avatars.githubusercontent.com/u/61067520",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": [
+        "ReactJS",
+        "NodeJS"
+      ]
+    },
+    {
+      "slug": "mobile-development",
+      "topics": [
+        "Flutter"
+      ]
+    }
+  ],
+  "contacts": {
+    "twitter": "ibukunoluwanap"
+  }
+}
