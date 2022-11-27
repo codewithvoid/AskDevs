@@ -5,7 +5,7 @@
     "categories": [
       {
         "slug": "web-development",
-        "topics": ["typescript", "laravel", "nestJs"]
+        "topics": ["VueJs", "laravel", "nestJs"]
       },
       {
         "slug": "programming",
