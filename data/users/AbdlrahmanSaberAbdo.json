@@ -5,15 +5,11 @@
     "categories": [
       {
         "slug": "web-development",
-        "topics": ["javascript", "typescript", "laravel", "nestJs", "vueJs"]
+        "topics": ["typescript", "laravel", "nestJs"]
       },
       {
         "slug": "programming",
-        "topics": ["python", "php", "javascript", "typescript"]
-      },
-      {
-        "slug": "programming-topics",
-        "topics": ["microservices", "messaging services", "clean-code", "design-pattern"]
+        "topics": ["python", "php", "typescript"]
       }
     ],
     "contacts": {
