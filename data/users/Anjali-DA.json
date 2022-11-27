@@ -1,0 +1,17 @@
+{
+  "name": "Anjali Pant",
+  "bio": "Data Analyst",
+  "image": "https://pbs.twimg.com/profile_images/1586668940780240896/eQpl4gr3_400x400.jpg",
+  "categories": [
+    {
+      "slug": "data-science",
+      "topics": [
+        "python",
+        "kaggle"
+      ]
+    }
+  ],
+  "contacts": {
+    "twitter": "AnjaliPant"
+  }
+}
