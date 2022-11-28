@@ -1,0 +1,15 @@
+{
+    "name": "Vedant Nandwana",
+    "bio": "Fullstack Developer",
+    "image": "https://pbs.twimg.com/profile_images/1523167477315690497/mqLWnX_e_400x400.png",
+    "categories": [
+      {
+        "slug": "web-development",
+        "topics": ["typescript", "docker", "postgres", "nextjs"]
+      }
+    ],
+    "contacts": {
+      "twitter": "vedantnn7"
+    }
+  }
+  
