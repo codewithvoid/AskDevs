@@ -1,0 +1,14 @@
+{
+    "name": "Nkiruka Ebele",
+    "bio": "Web Dev",
+    "image": "https://avatars2.githubusercontent.com/u/72361299",
+    "categories": [
+      {
+        "slug": "web-development",
+        "topics": ["React, JavaScript, Tailwind"]
+      }
+    ],
+    "contacts": {
+      "twitter": "nkirukka"
+    }
+  }
