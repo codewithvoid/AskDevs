@@ -5,16 +5,11 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": [
-        "ReactJS",
-        "NodeJS"
-      ]
+      "topics": ["ReactJS", "NodeJS"]
     },
     {
       "slug": "mobile-development",
-      "topics": [
-        "Flutter"
-      ]
+      "topics": ["Flutter"]
     }
   ],
   "contacts": {

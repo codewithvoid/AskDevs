@@ -2,19 +2,14 @@
   "name": "Anas Raza",
   "bio": "Full Stack Developer",
   "image": "https://avatars.githubusercontent.com/u/96536838?v=4",
-   "categories": [
+  "categories": [
     {
       "slug": "programming",
-      "topics": [
-        "JavaScript",
-        "Python"
-      ]
+      "topics": ["JavaScript", "Python"]
     },
-   {
+    {
       "slug": "web-development",
-      "topics": [
-        "MERN", "Flask", "Django"
-      ]
+      "topics": ["MERN", "Flask", "Django"]
     }
   ],
   "contacts": {
