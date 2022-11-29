@@ -5,10 +5,7 @@
   "categories": [
     {
       "slug": "data-science",
-      "topics": [
-        "python",
-        "kaggle"
-      ]
+      "topics": ["python", "kaggle"]
     }
   ],
   "contacts": {

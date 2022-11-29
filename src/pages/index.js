@@ -1,6 +1,5 @@
-import { TwitterShareButton } from "react-share";
-import { useState, useEffect } from 'react';
-import darkLogo from '../assets/logo/dark.png'; // askdev dark logo
+import { TwitterShareButton } from 'react-share';
+import { useState } from 'react';
 
 export async function getServerSideProps(context) {
   const { req } = context;
@@ -8,12 +7,10 @@ export async function getServerSideProps(context) {
   try {
     const usersResponse = await fetch(`http://${req.headers.host}/api/users`);
     users = await usersResponse.json();
-    const categoriesResponse = await fetch(
-      `http://${req.headers.host}/categories.json`
-    );
+    const categoriesResponse = await fetch(`http://${req.headers.host}/categories.json`);
     categories = await categoriesResponse.json();
   } catch (e) {
-    console.log("Error occurred while fetching data from server", e);
+    console.log('Error occurred while fetching data from server', e);
   }
 
   return {
@@ -27,9 +24,11 @@ export default function Home({ users, categories }) {
 
   // onSelected category button clicked
   function onCategoryButtonClick(e) {
-    const { dataset: { slug } } = e.target;
+    const {
+      dataset: { slug },
+    } = e.target;
     setSelectedCategory(slug);
-    setCategoryUsers(users.filter(u => u.categories.flatMap(c => c.slug).indexOf(slug) >= 0));
+    setCategoryUsers(users.filter((u) => u.categories.flatMap((c) => c.slug).indexOf(slug) >= 0));
   }
 
   // volunteers profile
@@ -40,21 +39,18 @@ export default function Home({ users, categories }) {
           <img
             src={user.image}
             alt="profile"
-            className="mx-auto rounded-full w-24 border-2"
-            style={{ "border-color": "#DAB264" }}
+            className="mx-auto rounded-full py-2 w-16 "
+            style={{ borderRadius: '100%' }}
           />
-          <p className="font-bold text-2xl tracking-wide mt-2" style={{ "color": "#020D1E" }}>
-            {user.name}
-          </p>
-          <p className="text-gray-400 font-semibold">{user.bio}</p>
+          <p className="font-bold text-2xl tracking-wide text-gray-800 mt-4">{user.name}</p>
+          <p className="text-gray-500 font-semibold mt-2">{user.bio}</p>
           <div className="w-full mt-8">
             {/* twitter to volunteer */}
             <TwitterShareButton
               title={`@${user.contacts.twitter} <add your question here>`}
-              url={"https://ask-devs.vercel.app/"}
-              hashtags={["AskDevs"]}
-              style={{ "background-color": "#DAB264", "color": "#020D1E" }}
-              className="py-2 px-4 w-full font-semibold rounded shadow-lg"
+              url={'https://ask-devs.vercel.app/'}
+              hashtags={['AskDevs']}
+              className="bg-blue-400 py-2 px-4 hover:bg-blue-600 text-white w-full font-semibold rounded-lg shadow-lg"
               resetButtonStyle={false}
             >
               Tweet
@@ -65,15 +61,6 @@ export default function Home({ users, categories }) {
     );
   }
 
-  // adding bg gradient
-  useEffect(() => {
-    document.querySelector("body").classList.add("bg-gradient-to-r");
-    document.querySelector("body").classList.add("from-rose-100");
-    document.querySelector("body").classList.add("to-teal-100");
-    document.querySelector("body").classList.add("bg-fixed");
-  });
-
-  // returning SPA
   return (
     <div>
       {/* navbar */}
@@ -85,32 +72,24 @@ export default function Home({ users, categories }) {
 
       <main >
         <section className="container mx-auto px-5 pt-10">
-          {/* title */}
-          <div style={{ "color": "#020D1E", }}>
-            <h1 className="my-4 text-5xl font-bold">
-              Got a technical question?
-            </h1>
-            <p className="mb-8 text-3xl leading-normal">
-              Ask our tech twitter volunteers!
-            </p>
-          </div>
-          {/* cagetories */}
-          <div className="flex flex-wrap space-x-5">
-            {categories.map((c) => {
-              if (c.slug === selectedCategory) {
-                return (
-                  <button className="m-1 rounded border-2 border-solid border-black px-5 py-1 text-center font-bold bg-black text-white">
-                    {c.name}
-                  </button>
-                )
-              } else {
-                return (
-                  <button className="m-1 rounded border-2 border-solid border-black px-5 py-1 text-center font-bold text-black hover:bg-black hover:text-white" data-slug={`${c.slug}`} onClick={onCategoryButtonClick}>
-                    {c.name}
-                  </button>
-                )
-              }
-            })}
+          <h1 className="my-4 text-5xl font-bold leading-tight">Got a technical question?</h1>
+          <p className="mb-8 text-3xl leading-normal">Ask our tech twitter volunteers!</p>
+          <div className="flex flex-wrap space-x-2">
+            {categories.map((c) =>
+              c.slug === selectedCategory ? (
+                <button className="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold bg-black text-white">
+                  {c.name}
+                </button>
+              ) : (
+                <button
+                  className="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold text-black hover:bg-black hover:text-white"
+                  data-slug={`${c.slug}`}
+                  onClick={onCategoryButtonClick}
+                >
+                  {c.name}
+                </button>
+              )
+            )}
           </div>
         </section>
 

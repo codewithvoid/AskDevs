@@ -1,0 +1,14 @@
+{
+  "name": "Satyam Bajpai",
+  "bio": "Full Stack Web Developer",
+  "image": "https://avatars.githubusercontent.com/u/85296770",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["reactjs", "css", "javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "satyamtweetss"
+  }
+}

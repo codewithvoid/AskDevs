@@ -1,15 +1,15 @@
-name: "Deploy"
+name: 'Deploy'
 
 on:
   push:
     branches:
-    - main
+      - main
 
 jobs:
-  vercel: 
+  vercel:
     runs-on: ubuntu-latest
-    name: "Vercel Deployment"
-    
+    name: 'Vercel Deployment'
+
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
@@ -17,7 +17,7 @@ jobs:
           node-version: '16'
           registry-url: https://registry.npmjs.org/
 
-      - name: "Deploy to Vercel"
+      - name: 'Deploy to Vercel'
         run: npx vercel --token ${VERCEL_TOKEN} --prod
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
