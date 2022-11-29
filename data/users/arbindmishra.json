@@ -1,0 +1,14 @@
+{
+  "name": "Aragorn",
+  "bio": "Web Developer",
+  "image": "https://avatars.githubusercontent.com/u/89216704?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["javascript", "AngularJS"]
+    }
+  ],
+  "contacts": {
+    "twitter": "codewithara"
+  }
+}
