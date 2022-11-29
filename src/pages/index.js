@@ -1,5 +1,5 @@
 import { TwitterShareButton } from 'react-share';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 export async function getServerSideProps(context) {
   const { req } = context;
@@ -61,12 +61,22 @@ export default function Home({ users, categories }) {
     );
   }
 
+  // adding bg gradient
+  useEffect(() => {
+    document.querySelector("body").classList.add("bg-gradient-to-r");
+    document.querySelector("body").classList.add("from-rose-100");
+    document.querySelector("body").classList.add("to-teal-100");
+    document.querySelector("body").classList.add("bg-fixed");
+  });
+
   return (
     <div>
       {/* navbar */}
       <header className="flex flex-wrap items-start" style={{ "background-color": "#020D1E", "position": "sticky", "top": 0 }}>
         <a href="/">
-          <img src={darkLogo.src} className="pl-3" width="80" alt="dark logo" />
+          <h1 className="text-4xl font-extrabold tracking-tighter text-white sm:text-5xl lg:text-7xl">
+            AskDevs
+          </h1>
         </a>
       </header>
 
