@@ -4,8 +4,8 @@
   "image": "https://avatars.githubusercontent.com/u/100681165?s=400&u=3b57ae3129b51609a84806dcc1431aea2f93b074&v=4",
   "categories": [
     {
-      "slug": "programming |web-development",
-      "topics": [Javascript,DSA]
+      "slug": "web-development",
+      "topics": ["Javascript","Data structures","Algorithms"]
     }
   ],
   "contacts": {
