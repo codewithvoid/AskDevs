@@ -1,0 +1,14 @@
+{
+  "name": "Matias Fanger",
+  "bio": "Senior Dev",
+  "image": "https://pbs.twimg.com/profile_images/1597759088934395904/VVMDI893_400x400.jpg",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["nuxt", "vue", "typescript", "javascript", "python"]
+    }
+  ],
+  "contacts": {
+    "twitter": "matifanger"
+  }
+}
