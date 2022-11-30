@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import { TwitterShareButton } from 'react-share';
 import { useState } from 'react';
 
@@ -60,6 +61,10 @@ export default function Home({ users, categories }) {
 
   return (
     <div>
+      <Head>
+        <title>AskDevs</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <header className="flex flex-wrap items-start justify-around bg-black p-3 text-gray-100">
         <h1 className="text-4xl font-extrabold tracking-tighter text-white sm:text-5xl lg:text-7xl">
           AskDevs
