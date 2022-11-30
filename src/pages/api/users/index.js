@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
+// handling the user api
 export default async function handler(req, res) {
   const directoryPath = path.join(process.cwd(), 'data/users');
   const files = fs.readdirSync(directoryPath);
