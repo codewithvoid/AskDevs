@@ -1,14 +1,14 @@
 {
-    "name": "Heri Yanto",
-    "bio": "Web Dev",
-    "image": "https://www.heriyanto.dev/profile.88f5a3d3.jpg",
-    "categories": [
-      {
-        "slug": "web-development",
-        "topics": ["ReactJS", "NodeJS"]
-      }
-    ],
-    "contacts": {
-      "twitter": "HeriYantodotDev"
+  "name": "Heri Yanto",
+  "bio": "Web Dev",
+  "image": "https://www.heriyanto.dev/profile.88f5a3d3.jpg",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["ReactJS", "NodeJS"]
     }
+  ],
+  "contacts": {
+    "twitter": "HeriYantodotDev"
   }
+}
