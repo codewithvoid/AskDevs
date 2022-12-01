@@ -4,8 +4,8 @@
   "image": "https://avatars.githubusercontent.com/u/55712009?v=4",
   "categories": [
     {
-      "slug": "Software-development",
-      "topics": [Javascript, React, NodeJS]
+      "slug": "software-development",
+      "topics": ["Javascript", "React", "NodeJS"]
     }
   ],
   "contacts": {
