@@ -1,0 +1,14 @@
+{
+  "name": "Kritik Jain",
+  "bio": "Frontend Dev",
+  "image": "https://avatars.githubusercontent.com/u/55712009?v=4",
+  "categories": [
+    {
+      "slug": "software-development",
+      "topics": ["Javascript", "React", "NodeJS"]
+    }
+  ],
+  "contacts": {
+    "twitter": "_kritikjain"
+  }
+}
