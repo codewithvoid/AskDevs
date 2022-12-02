@@ -1,19 +1,23 @@
 {
     "name": "Aryan Deshpande",
     "bio": "Backend Engineer",
-    "image": "https://discord.com/channels/835750351621718027/835750351621718030/1047868354569973791",
+    "image": "https://pbs.twimg.com/profile_images/1563849487029780483/IlkYVtRY_400x400.jpg",
     "categories": [
       {
         "slug": "web-development",
-        "topics": ["NodeJS", "Flask", "Javascript","Docker", "Kubernetes", "Azure", "AWS S3"]
+        "topics": ["NodeJS", "Flask", "Javascript"]
       },
       {
         "slug": "data-science",
-        "topics": ["Python", "Pytorch", "Numpy", "Pandas", "Feast"]
+        "topics": ["Python", "Pytorch", "Numpy"]
       },
       {
         "slug": "programming",
-        "topics": ["Python", "Java", "Golang", "Javascript"]
+        "topics": ["Python", "Java", "Golang"]
+      },
+      {
+        "slug": "devops",
+        "topics": ["Docker", "Kubernetes", "Azure"]
       }
     ],
     "contacts": {
