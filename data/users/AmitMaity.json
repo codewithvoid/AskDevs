@@ -1,0 +1,14 @@
+{
+    "name": "Amit Maity",
+    "bio": "Android Developer",
+    "image": "https://maityamit.github.io/maityamit-portfolio/assets/images/hero.png",
+    "categories": [
+      {
+        "slug": "mobile-development",
+        "topics": ["android"]
+      }
+    ],
+    "contacts": {
+      "twitter": "https://twitter.com/_maityamit"
+    }
+  }
