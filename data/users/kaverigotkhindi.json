@@ -1,17 +1,24 @@
 {
-  "name":"Kaveri",
-  "bio":"Web Developer",
-  "image":"https://pbs.twimg.com/profile_images/1488460804227997698/rPSir7Zj_400x400.jpg",
-  "categories":[
+  "name": "Kaveri",
+  "bio": "Web Developer",
+  "image": "https://pbs.twimg.com/profile_images/1488460804227997698/rPSir7Zj_400x400.jpg",
+  "categories": [
     {
-      "slug":"web-development",
-      "topics":["HTML","CSS"]
+      "slug": "web-development",
+      "topics": [
+        "HTML",
+        "CSS"
+      ]
     },
     {
-      "slug":"database-development",
-      "topics":["Microsoft SQL","Oracle SQL"]
-    },
-    "contacts":{
-      "twitter":"kaveri04"
+      "slug": "database-development",
+      "topics": [
+        "Microsoft SQL",
+        "Oracle SQL"
+      ]
     }
+  ],
+  "contacts": {
+    "twitter": "kaveri04"
+  }
 }
