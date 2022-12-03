@@ -5,15 +5,15 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["javascript", "CSS", "react", "next", "pwa"]
+      "topics": ["CSS", "react", "next"]
     },
     {
       "slug": "software-development",
-      "topics": ["git", "github", "opensource", "automation"]
+      "topics": ["git", "github", "opensource"]
     },
     {
       "slug": "programming",
-      "topics": ["javascript", "node", "typescript", "discordjs", "nestjs"]
+      "topics": ["javascript", "typescript", "discordjs"]
     }
   ],
   "contacts": {
