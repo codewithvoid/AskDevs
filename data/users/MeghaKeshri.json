@@ -1,0 +1,14 @@
+{
+  "name": "Megha",
+  "bio": "Java Dev",
+  "image": "https://avatars.githubusercontent.com/u/89741711?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["java"]
+    }
+  ],
+  "contacts": {
+    "twitter": "meghakeshritwt"
+  }
+}

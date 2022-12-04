@@ -1,0 +1,4 @@
+{
+  "*.{js,jsx}": "eslint --fix",
+  "*": "npm run format"
+}
