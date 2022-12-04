@@ -1,0 +1,15 @@
+{ 
+    "name": "Saurav Pant",
+     "bio": "Programmer", 
+     "image": "https://avatars.githubusercontent.com/u/103263909?v=4",
+      "categories": [ 
+        { "slug": "programming", 
+        "topics": ["Java", "Data structures", "JavaScript"] 
+        } 
+    ],
+
+    "contacts": {
+         "twitter": "Saurav_Pant_"
+     } 
+    
+}
