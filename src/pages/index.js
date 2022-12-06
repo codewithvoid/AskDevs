@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import { TwitterShareButton } from 'react-share';
 import { useState } from 'react';
-
+import Link from 'next/link';
 export async function getServerSideProps(context) {
   const { req } = context;
   let users, categories;
@@ -33,7 +33,7 @@ export default function Home({ users, categories }) {
 
   function getProfileCard(user) {
     return (
-      <div className="w-full p-4 md:w-1/2 lg:w-1/4" key={user.username}>
+      <div className="w-full p-4 md:w-1/2 lg:w-1/4 flex justify-center" key={user.username}>
         <div className="bg-white flex flex-col items-center justify-center p-4 shadow-lg rounded-2xl w-64 hover:shadow-gray-500">
           <img
             src={user.image}
@@ -72,9 +72,11 @@ export default function Home({ users, categories }) {
         <link rel="manifest" href="/favicon/site.webmanifest" />
       </Head>
       <header className="flex flex-wrap items-start justify-around bg-black p-3 text-gray-100">
-        <h1 className="text-4xl font-extrabold tracking-tighter text-white sm:text-5xl lg:text-7xl">
-          AskDevs
-        </h1>
+        <Link href="/">
+          <h1 className="text-4xl font-extrabold tracking-tighter text-white sm:text-5xl lg:text-7xl">
+            AskDevs
+          </h1>
+        </Link>
       </header>
 
       <main className="bg-gradient-to-r from-rose-100 to-teal-100">
