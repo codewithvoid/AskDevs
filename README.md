@@ -4,33 +4,24 @@ Tweet your technical questions to tech twitter volunteers.
 
 ## 👨‍💻 Demo
 
-Check out the website: https://ask-devs.vercel.app/
 
-## 🔍 Add yourself as volunteer
+https://user-images.githubusercontent.com/70970530/206004131-2c786936-e393-4efd-9192-1809346215f4.mp4
 
-STEPS :
 
-1. Create new file in data/users/`<GITHUB USERNAME>`.json
-2. Add following content
 
-```json
-{
-  "name": "<YOUR NAME>",
-  "bio": "e.g Java Developer | Web Dev | Senior Dev ",
-  "image": "<IMAGE URL>",
-  "categories": [
-    {
-      "slug": "programming | software-development | web-development | mobile-development | data-science",
-      "topics": []
-    }
-  ],
-  "contacts": {
-    "twitter": "<INSERT YOUR TWITTER USER ID>"
-  }
-}
-```
 
-3. Create new PR with title Add new volunteer `<YOUR NAME>`.
+## 📄 Code of Conduct
+
+Everyone in this community (from core members to random committers and volunteers) are asked to please act in accordance with the AskDevs Community Contributor Code of Conduct. We encourage you to follow these social rules which help guide our interactions with each other, and ensure we provide a safe environment for everyone. We aim to make AskDevs a positive, welcoming, open and inclusive project and community.
+
+[Code of Conduct](code-of-conduct.md)
+
+
+## 👨‍🍳 Contribute
+
+See the [contributing docs](contributing.md)
+
+
 
 ## 🙌 Thanks to all Contributors
 
