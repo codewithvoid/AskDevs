@@ -17,11 +17,6 @@ Everyone in this community (from core members to random committers and volunteer
 [Code of Conduct](https://github.com/codewithvoid/AskDevs/blob/main/CODE_OF_CONDUCT.md)
 
 
-## 👨‍🍳 Contribute
-
-See the [contributing docs](contributing.md)
-
-
 
 ## 🙌 Team
 
