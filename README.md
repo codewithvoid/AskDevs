@@ -5,8 +5,8 @@ Tweet your technical questions to tech twitter volunteers.
 ## 👨‍💻 Demo
 
 
-https://user-images.githubusercontent.com/70970530/206004131-2c786936-e393-4efd-9192-1809346215f4.mp4
 
+https://user-images.githubusercontent.com/70970530/206004930-5f08a667-d826-413c-8fb8-c4c66217da8e.mp4
 
 
 
@@ -23,12 +23,15 @@ See the [contributing docs](contributing.md)
 
 
 
-## 🙌 Thanks to all Contributors
+## 🙌 Team
 
-Thanks a lot for spending your time. Thanks a lot! Keep rocking 🍻
+
+AskDevs is beautifully crafted by these people and a bunch of awesome [contributors](https://github.com/codewithvoid/AskDevs/graphs/contributors)
 
 [![Contributors](https://contrib.rocks/image?repo=codewithvoid/AskDevs)](https://github.com/codewithvoid/AskDevs/graphs/contributors)
 
 ## 🙏 Support
 
+Love AskDevs work and community? Help us keep it alive by supporting.
 This project needs a ⭐️ from you. Don’t forget to leave a star ⭐️
+
