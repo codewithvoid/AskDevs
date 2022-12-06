@@ -33,7 +33,7 @@ STEPS :
 }
 ```
 
-4. Create new PR with chore: add volunteer  `<GITHUB USERNAME>`.
+4. Create new PR with `chore: add volunteer <GITHUB USERNAME>`.
 
 ## 📄 Code of Conduct
 
