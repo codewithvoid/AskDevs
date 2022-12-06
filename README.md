@@ -35,7 +35,7 @@ AskDevs is beautifully crafted by these awesome [contributors](https://github.co
 Love AskDevs work and community? Help us keep it alive by supporting.
 This project needs a ⭐️ from you. Don’t forget to leave a star ⭐️
 
-## License
+## 🛡️ License
 
 [MIT License](https://github.com/codewithvoid/AskDevs/blob/main/LICENSE)
 
