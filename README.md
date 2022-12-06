@@ -26,7 +26,7 @@ See the [contributing docs](contributing.md)
 ## 🙌 Team
 
 
-AskDevs is beautifully crafted by these awesome [contributors](https://github.com/codewithvoid/AskDevs/graphs/contributors)
+AskDevs is beautifully crafted by these awesome [contributors](https://github.com/codewithvoid/AskDevs/graphs/contributors).
 
 [![Contributors](https://contrib.rocks/image?repo=codewithvoid/AskDevs)](https://github.com/codewithvoid/AskDevs/graphs/contributors)
 
