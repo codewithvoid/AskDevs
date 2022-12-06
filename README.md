@@ -33,7 +33,7 @@ STEPS :
 }
 ```
 
-4. Create new PR with title Add new volunteer `<YOUR NAME>`.
+4. Create new PR with chore: add volunteer  `<GITHUB USERNAME>`.
 
 ## 📄 Code of Conduct
 
@@ -42,11 +42,10 @@ Everyone in this community (from core members to random committers and volunteer
 [Code of Conduct](code-of-conduct.md)
 
 
-## 👨‍🍳 Contribute
 
-See the [contributing docs](contributing.md)
+<!--- ## 👨‍🍳 Contribute
 
-
+See the [contributing docs](contributing.md) -->
 
 ## 🙌 Team
 
