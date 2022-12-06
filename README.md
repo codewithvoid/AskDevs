@@ -5,8 +5,8 @@ Tweet your technical questions to tech twitter volunteers.
 ## 👨‍💻 Demo
 
 
+https://user-images.githubusercontent.com/70970530/206005361-a229aa33-f5d3-465e-9ada-348b501320c2.mp4
 
-https://user-images.githubusercontent.com/70970530/206004930-5f08a667-d826-413c-8fb8-c4c66217da8e.mp4
 
 
 
@@ -26,7 +26,7 @@ See the [contributing docs](contributing.md)
 ## 🙌 Team
 
 
-AskDevs is beautifully crafted by these people and a bunch of awesome [contributors](https://github.com/codewithvoid/AskDevs/graphs/contributors)
+AskDevs is beautifully crafted by these awesome [contributors](https://github.com/codewithvoid/AskDevs/graphs/contributors)
 
 [![Contributors](https://contrib.rocks/image?repo=codewithvoid/AskDevs)](https://github.com/codewithvoid/AskDevs/graphs/contributors)
 
