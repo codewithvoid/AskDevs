@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/70970530/206005591-1eb473b7-3cfc-4d9a-
 
 STEPS :
 
-1. [Fork](https://github.com/codewithvoid/AskDevs) the project. Click on the fork icon in the top right to get started 
+1. Fork the project to get started 
 2. Create new file in data/users/`<GITHUB USERNAME>`.json
 3. Add following content
 
