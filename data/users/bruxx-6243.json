@@ -1,0 +1,26 @@
+{
+    "name": "Fariol Blondeau",
+    "bio": "Frontend Developer",
+    "image": "https://avatars.githubusercontent.com/u/81830567?v=4",
+    "categories": [
+        {
+            "slug": "web-development",
+            "topics": [
+                "css",
+                "javascript",
+                "Typescript",
+                "React"
+            ]
+        },
+        {
+            "slug": "programming",
+            "topics": [
+                "Python",
+                "C++"
+            ]
+        }
+    ],
+    "contacts": {
+        "twitter": "bryan_6243"
+    }
+}
