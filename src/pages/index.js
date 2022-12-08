@@ -33,12 +33,12 @@ export default function Home({ users, categories }) {
 
   function getProfileCard(user) {
     return (
-      <div className="w-full p-4 md:w-1/2 lg:w-1/4" key={user.username}>
+      <div className="p-4 mx-auto sm:mx-0 md:w-1/2 lg:w-1/4" key={user.username}>
         <div className="bg-white flex flex-col items-center justify-center p-4 shadow-lg rounded-2xl w-64 hover:shadow-gray-500">
           <img
             src={user.image}
-            alt="profile"
-            className="mx-auto rounded-full py-2 w-16 "
+            alt={`${user.username} profile`}
+            className="mx-auto py-2 w-16 "
             style={{ borderRadius: '100%' }}
           />
           <p className="font-bold text-2xl tracking-wide text-gray-800 text-center mt-4">
@@ -104,7 +104,7 @@ export default function Home({ users, categories }) {
           </div>
         </section>
 
-        <section className="container  mx-auto body-font h-screen min-h-screen text-gray-600 px-5 py-10">
+        <section className="container  mx-auto min-h-screen text-gray-600 px-5 py-10">
           <div className="-m-4 flex flex-wrap">{categoryUsers.map(getProfileCard)}</div>
         </section>
       </main>
