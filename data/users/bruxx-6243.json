@@ -3,24 +3,17 @@
     "bio": "Frontend Developer",
     "image": "https://avatars.githubusercontent.com/u/81830567?v=4",
     "categories": [
-        {
-            "slug": "web-development",
-            "topics": [
-                "css",
-                "javascript",
-                "Typescript",
-                "React"
-            ]
-        },
-        {
-            "slug": "programming",
-            "topics": [
-                "Python",
-                "C++"
-            ]
-        }
+      {
+        "slug": "web-development",
+        "topics": ["css", "ReactJS"]
+      },
+      {
+        "slug": "programming",
+        "topics": ["Python"]
+      }
     ],
     "contacts": {
-        "twitter": "bryan_6243"
+      "twitter": "bryan_6243"
     }
-}
+  }
+  
