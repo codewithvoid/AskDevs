@@ -1,0 +1,14 @@
+{
+  "name": "Kanak",
+  "bio": "Full Stack developer",
+  "image": "https://avatars.githubusercontent.com/u/62026983?s=400&u=29d76264781ba448718d2c321ef14a849941ac17&v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["C++", "Data structures", "Algorithms","Full Stack"]
+    }
+  ],
+  "contacts": {
+    "twitter": "kanak2212"
+  }
+}
