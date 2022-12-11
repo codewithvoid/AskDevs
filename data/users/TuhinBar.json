@@ -1,7 +1,7 @@
 {
   "name": "Tuhin Bar",
   "bio": "Web Developer",
-  "image": "",
+  "image": "https://user-images.githubusercontent.com/85868593/206908263-e79c6354-ee85-40fe-b126-ce470b96e964.png",
   "categories": [
     {
       "slug": "web-development",
@@ -12,3 +12,4 @@
     "twitter": "thebrocoder"
   }
 }
+
