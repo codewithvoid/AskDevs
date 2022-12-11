@@ -1,0 +1,14 @@
+{
+  "name": "Tuhin Bar",
+  "bio": "Web Developer",
+  "image": "",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["Programming","Full Stack development","MERN stack"]
+    }
+  ],
+  "contacts": {
+    "twitter": "thebrocoder"
+  }
+}
