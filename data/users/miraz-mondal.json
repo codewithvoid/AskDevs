@@ -1,0 +1,14 @@
+{
+  "name": "Miraz Mondal",
+  "bio": "Web Developer",
+  "image": "https://ibb.co/mDsy4cf",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["Programming","Full Stack development","PHP","MERN"]
+    }
+  ],
+  "contacts": {
+    "twitter": "mirazxmondal"
+  }
+}
