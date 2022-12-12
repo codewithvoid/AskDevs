@@ -5,17 +5,11 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": [
-        "HTML",
-        "CSS"
-      ]
+      "topics": ["HTML", "CSS"]
     },
     {
       "slug": "database-development",
-      "topics": [
-        "Microsoft SQL",
-        "Oracle SQL"
-      ]
+      "topics": ["Microsoft SQL", "Oracle SQL"]
     }
   ],
   "contacts": {
