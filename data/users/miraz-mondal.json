@@ -1,11 +1,11 @@
 {
   "name": "Miraz Mondal",
-  "bio": "Web Developer",
-  "image": "https://ibb.co/mDsy4cf",
+  "bio": "Full stack developer",
+  "image": "https://avatars.githubusercontent.com/u/89645073?v=4",
   "categories": [
     {
-      "slug": "web-development",
-      "topics": ["Programming","Full Stack development","PHP","MERN"]
+      "slug": "programming",
+      "topics": ["Javascript","PHP"]
     }
   ],
   "contacts": {
