@@ -1,15 +1,14 @@
 {
-    "name": "Pritesh Kiri",
-    "bio": "Frontend Dev",
-    "image": "https://avatars.githubusercontent.com/u/77957844?v=4",
-    "categories": [
-      {
-        "slug": "web-development",
-        "topics": ["CSS", "javascript","react"]
-      }
-    ],
-    "contacts": {
-      "twitter": "PriteshKiri"
+  "name": "Pritesh Kiri",
+  "bio": "Frontend Dev",
+  "image": "https://avatars.githubusercontent.com/u/77957844?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["CSS", "javascript", "react"]
     }
+  ],
+  "contacts": {
+    "twitter": "PriteshKiri"
   }
-  
+}
