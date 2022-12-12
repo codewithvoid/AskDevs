@@ -18,5 +18,13 @@
   {
     "name": "Data Science",
     "slug": "data-science"
+  },
+  {
+    "name": "Devops",
+    "slug": "devops"
+  },
+  {
+    "name": "Database Development",
+    "slug": "database-development"
   }
 ]

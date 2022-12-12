@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import { TwitterShareButton } from 'react-share';
 import { useState } from 'react';
 
@@ -40,7 +41,9 @@ export default function Home({ users, categories }) {
             className="mx-auto rounded-full py-2 w-16 "
             style={{ borderRadius: '100%' }}
           />
-          <p className="font-bold text-2xl tracking-wide text-gray-800 mt-4">{user.name}</p>
+          <p className="font-bold text-2xl tracking-wide text-gray-800 text-center mt-4">
+            {user.name}
+          </p>
           <p className="text-gray-500 font-semibold mt-2">{user.bio}</p>
           <div className="w-full mt-8">
             <TwitterShareButton
@@ -60,6 +63,14 @@ export default function Home({ users, categories }) {
 
   return (
     <div>
+      <Head>
+        <title>AskDevs</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
+        <link rel="manifest" href="/favicon/site.webmanifest" />
+      </Head>
       <header className="flex flex-wrap items-start justify-around bg-black p-3 text-gray-100">
         <h1 className="text-4xl font-extrabold tracking-tighter text-white sm:text-5xl lg:text-7xl">
           AskDevs
@@ -73,12 +84,16 @@ export default function Home({ users, categories }) {
           <div className="flex flex-wrap space-x-2">
             {categories.map((c) =>
               c.slug === selectedCategory ? (
-                <button className="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold bg-black text-white">
+                <button
+                  className="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold bg-black text-white"
+                  key={`${c.slug}`}
+                >
                   {c.name}
                 </button>
               ) : (
                 <button
                   className="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold text-black hover:bg-black hover:text-white"
+                  key={`${c.slug}`}
                   data-slug={`${c.slug}`}
                   onClick={onCategoryButtonClick}
                 >
