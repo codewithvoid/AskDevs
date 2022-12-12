@@ -1,6 +1,4 @@
-import React from 'react';
-
-const HeaderLogo = () => {
+export default function HeaderLogo() {
   return (
     <h1
       onClick={() => {
@@ -11,6 +9,4 @@ const HeaderLogo = () => {
       AskDevs
     </h1>
   );
-};
-
-export default HeaderLogo;
+}
