@@ -1,0 +1,14 @@
+{
+  "name": "Miraz Mondal",
+  "bio": "Full stack developer",
+  "image": "https://avatars.githubusercontent.com/u/89645073?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Javascript", "PHP"]
+    }
+  ],
+  "contacts": {
+    "twitter": "mirazxmondal"
+  }
+}
