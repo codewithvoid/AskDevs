@@ -1,11 +1,11 @@
 {
   "name": "Tuhin Bar",
-  "bio": "Web Developer",
-  "image": "https://user-images.githubusercontent.com/85868593/206908263-e79c6354-ee85-40fe-b126-ce470b96e964.png",
+  "bio": "Full Stack Developer",
+  "image": "https://avatars.githubusercontent.com/u/85868593?v=4",
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["Programming","Full Stack development","MERN stack"]
+      "topics": ["Full Stack development","MERN"]
     }
   ],
   "contacts": {
