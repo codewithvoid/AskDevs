@@ -1,11 +1,14 @@
 {
     "name": "Sattyam Samania",
     "bio": "Frontend Developer",
-    "image": "https://avatars.githubusercontent.com/u/67833888?s=400&u=7f15bce07fcea153c36a222a598de3df5fbae3e0&v=4",
+    "image": "https://avatars.githubusercontent.com/u/67833888?v=4",
     "categories": [
       {
         "slug": "web-development",
-        "topics": ["javascript"]
+        "topics": ["CSS", "Tailwind CSS","Bootstrap"],
+        
+        "slug": "Programming",
+        "topics": ["Javascript", "Java"]
       }
     ],
     "contacts": {
