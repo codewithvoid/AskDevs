@@ -5,10 +5,10 @@
     "categories": [
       {
         "slug": "web-development",
-        "topics": ["CSS", "Tailwind CSS","Bootstrap"],
+        "topics": ["CSS","Tailwind-CSS","Bootstrap"],
         
-        "slug": "Programming",
-        "topics": ["Javascript", "Java"]
+        "slug": "programming",
+        "topics": ["Javascript","Java"]
       }
     ],
     "contacts": {
