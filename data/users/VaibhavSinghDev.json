@@ -1,0 +1,14 @@
+{
+  "name": "Vaibhav Singh",
+  "bio": "Web Developer",
+  "image": "https://avatars.githubusercontent.com/u/85750972?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Python", "JavaScript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "VaibhavSinghDev"
+  }
+}
