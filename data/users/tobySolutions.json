@@ -1,0 +1,14 @@
+{
+  "name": "Tobiloba Adedeji",
+  "bio": "Frontend Engineer",
+  "image": "https://avatars.githubusercontent.com/u/96334363?v=4",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development",
+      "topics": ["DSA", "Javascript", "Typescript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "toby_solutions"
+  }
+}
