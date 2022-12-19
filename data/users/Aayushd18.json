@@ -9,7 +9,11 @@
     },
     {
       "slug": "software-development",
-      "topics": ["MERN", "Etheruem"]
+      "topics": ["MERN"]
+    },
+    {
+      "slug": "blockchain-development",
+      "topics": ["Etheruem"]
     }
   ],
   "contacts": {
