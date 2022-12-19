@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import { TwitterShareButton } from 'react-share';
 import { useState } from 'react';
+import { shuffle } from 'fast-shuffle';
 import dynamic from 'next/dynamic';
 
 const HeaderLogo = dynamic(() => import('../components/HeaderLogo'), { ssr: false });
@@ -10,6 +11,7 @@ export async function getServerSideProps(context) {
   try {
     const usersResponse = await fetch(`http://${req.headers.host}/api/users`);
     users = await usersResponse.json();
+    users = shuffle(users); // Randomize order of users
     const categoriesResponse = await fetch(`http://${req.headers.host}/categories.json`);
     categories = await categoriesResponse.json();
   } catch (e) {
