@@ -1,0 +1,14 @@
+{
+  "name": "Ibrahim Raimi",
+  "bio": "Creative Frontend Developer",
+  "image": "https://i.ibb.co/M5YtTdP/profile-pic.png",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development",
+      "topics": []
+    }
+  ],
+  "contacts": {
+    "twitter": "ibrahimraimi_"
+  }
+}
