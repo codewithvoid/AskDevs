@@ -1,0 +1,18 @@
+{
+  "name": "Schleidens Alectine",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/53914451?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["Vue", "Nuxt", "React", "Gatsby", "Next"]
+    },
+     {
+      "slug": "programming",
+      "topics": ["Javascript", "Python", "Ruby"]
+    }
+  ],
+  "contacts": {
+    "twitter": "schleidens_dev"
+  }
+}
