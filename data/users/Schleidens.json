@@ -5,7 +5,7 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["Vue", "Nuxt", "React", "Gatsby", "Next"]
+      "topics": ["VueJs", "NuxtJs", "ReactJs",]
     },
      {
       "slug": "programming",
