@@ -5,7 +5,11 @@
   "categories": [
     {
       "slug": "programming",
-      "topics": ["reactjs", "nextjs", "javascript", "python"]
+      "topics": ["javascript", "python"]
+    },
+     {
+      "slug": "web-development",
+      "topics": ["reactjs", "nextjs"]
     }
   ],
   "contacts": {
