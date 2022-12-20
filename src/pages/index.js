@@ -87,14 +87,14 @@ export default function Home({ users, categories }) {
             {categories.map((c) =>
               c.slug === selectedCategory ? (
                 <button
-                  className="mt-2 mb-0 ml-1 mr-2 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold bg-black text-white"
+                  className="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold bg-black text-white"
                   key={`${c.slug}`}
                 >
                   {c.name}
                 </button>
               ) : (
                 <button
-                  className="mt-2 mb-0 ml-1 mr-2 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold text-black hover:bg-black hover:text-white"
+                  className="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold text-black hover:bg-black hover:text-white"
                   key={`${c.slug}`}
                   data-slug={`${c.slug}`}
                   onClick={onCategoryButtonClick}
