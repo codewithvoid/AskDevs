@@ -7,7 +7,7 @@
       "slug": "programming",
       "topics": ["javascript", "python"]
     },
-     {
+    {
       "slug": "web-development",
       "topics": ["reactjs", "nextjs"]
     }
