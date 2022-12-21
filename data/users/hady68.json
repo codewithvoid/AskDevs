@@ -1,0 +1,17 @@
+{"name": "Hardikk Kamboj",
+  "bio": "Web Dev",
+  "image": "https://avatars.githubusercontent.com/u/64458111?v=4",
+  "categories": [
+  {
+    "slug": "web-development",
+    "topics": [
+      "ReactJS"
+    ]
+  },
+  {
+    "slug": "programming",
+    "topics": [
+      "JavaScript"
+    ]
+  }
+]
