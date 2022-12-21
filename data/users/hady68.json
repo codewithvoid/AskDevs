@@ -1,14 +1,18 @@
 {
   "name": "Hardikk Kamboj",
-  "bio": "Community Manager | Web Dev ",
+  "bio": "Web Dev ",
   "image": "https://avatars.githubusercontent.com/u/64458111?v=4",
   "categories": [
-    {
-      "slug": "programming | software-development | web-development | Community-management",
-      "topics": ["JavaScript", "Community management", "React"]
-    }
-  ],
-  "contacts": {
-    "twitter": "HdKamboj"
+  {
+    "slug": "web-development",
+    "topics": [
+      "ReactJS"
+    ]
+  },
+  {
+    "slug": "programming",
+    "topics": [
+      "JavaScript"
+    ]
   }
-}
+]
