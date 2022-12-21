@@ -26,5 +26,9 @@
   {
     "name": "Database Development",
     "slug": "database-development"
+  },
+  {
+    "name": "Blockchain Development",
+    "slug": "blockchain-development"
   }
 ]

@@ -10,7 +10,6 @@ https://user-images.githubusercontent.com/70970530/206005591-1eb473b7-3cfc-4d9a-
 
 https://user-images.githubusercontent.com/70970530/206005591-1eb473b7-3cfc-4d9a-ae1d-0acb492d2d07.mp4
 
-
 ## 🔍 Add yourself as volunteer
 
 STEPS :
@@ -44,14 +43,11 @@ Everyone in this community (from core members to random committers and volunteer
 
 [Code of Conduct](code-of-conduct.md)
 
-
-
 <!--- ## 👨‍🍳 Contribute
 
 See the [contributing docs](contributing.md) -->
 
 ## 🙌 Team
-
 
 AskDevs is beautifully crafted by these awesome [contributors](https://github.com/codewithvoid/AskDevs/graphs/contributors)
 

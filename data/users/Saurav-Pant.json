@@ -1,0 +1,14 @@
+{
+  "name": "Saurav Pant",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/103263909?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Saurav_Pant_"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Tuhin Bar",
+  "bio": "Full Stack Developer",
+  "image": "https://avatars.githubusercontent.com/u/85868593?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["NodeJS", "Express", "ReactJS"]
+    }
+  ],
+  "contacts": {
+    "twitter": "thebrocoder"
+  }
+}

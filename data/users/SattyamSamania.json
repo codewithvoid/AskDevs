@@ -1,0 +1,17 @@
+{
+  "name": "Sattyam Samania",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/67833888?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["CSS", "Tailwind-CSS", "Bootstrap"],
+
+      "slug": "programming",
+      "topics": ["Javascript", "Java"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Sattyam15"
+  }
+}
