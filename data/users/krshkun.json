@@ -13,7 +13,7 @@
     },
     {
       "slug": "programming",
-      "topics": ["javascript", "typescript", "discordjs"]
+      "topics": ["javascript", "typescript"]
     }
   ],
   "contacts": {
