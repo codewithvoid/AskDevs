@@ -5,7 +5,7 @@
   "categories": [
     {
       "slug": "programming",
-      "topics": ["Python", "C", "Data structures", "Algorithms", "Odoo"]
+      "topics": ["Python", "C", "Data structures"]
     }
   ],
   "contacts": {
