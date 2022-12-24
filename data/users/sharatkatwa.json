@@ -7,7 +7,7 @@
       "slug": "web-development",
       "topics": ["NodeJS", "ExpressJS"]
     },
-    
+
     {
       "slug": "programming",
       "topics": ["C", "C++", "Javascript"]
@@ -15,8 +15,7 @@
     {
       "slug": "database-development",
       "topics": ["mongoDB"]
-    },
-   
+    }
   ],
   "contacts": {
     "twitter": "JkSharat"
