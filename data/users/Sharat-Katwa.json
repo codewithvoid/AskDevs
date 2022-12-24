@@ -5,12 +5,16 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["NodeJS", "ExpressJS","MongoDB", "Javascript"]
+      "topics": ["NodeJS", "ExpressJS",]
     },
     
     {
       "slug": "programming",
-      "topics": ["C", "C++"]
+      "topics": ["C", "C++", "Javascript"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["mongoDB"]
     },
    
   ],
