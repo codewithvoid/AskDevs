@@ -1,0 +1,14 @@
+{
+  "name": "Rupali Haldiya",
+  "bio": "Full stack developer",
+  "image": "https://pbs.twimg.com/profile_images/1602912461841367042/4pbHGQxf_400x400.jpg",
+  "categories": [
+    {
+      "slug": "programming | web-development",
+      "topics": ["javascript", "nodejs",  "expressjs", "mongodb"]
+    }
+  ],
+  "contacts": {, 
+    "twitter": "rupali_codes"
+  }
+}
