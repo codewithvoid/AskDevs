@@ -1,0 +1,14 @@
+{
+    "name": "Vivek S",
+    "bio": "Fullstack | Web Dev | Javascript",
+    "image": "https://avatars.githubusercontent.com/u/119622641?s=400&u=f3a76c030da69ff20d4cdb8986af793f16ce6e40&v=4",
+    "categories": [
+      {
+        "slug": "programming | software-development | web-development",
+        "topics": ["JavaScript", "CSS", "HTML"]
+      }
+    ],
+    "contacts": {
+      "twitter": "tweetandcode"
+    }
+  }
