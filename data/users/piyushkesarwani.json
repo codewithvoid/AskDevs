@@ -1,1 +1,22 @@
-
+{
+  "name": "Piyush Kesarwani",
+  "bio": "Java/C++ Developer | Full Stack Developer ",
+  "image": "https://avatars.githubusercontent.com/u/99383186?s=400&u=f9090471810fcf395c8f91dfa36aa9e291350fc7&v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Java/C++", "JavaScript"]
+    }
+    {
+      "slug": "Software Development",
+      "topics": ["Data Structures & Algorithms"]
+    }
+    {
+      "slug": "Web Development",
+      "topics": ["MERN", "JavaScript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Hy_piyush"
+  }
+}
