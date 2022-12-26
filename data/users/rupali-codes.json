@@ -1,11 +1,33 @@
 {
   "name": "Rupali Haldiya",
-  "bio": "Full stack developer",
-  "image": "https://pbs.twimg.com/profile_images/1602912461841367042/4pbHGQxf_400x400.jpg",
+  "bio": "Full Stack Developer",
+  "image": "https://avatars.githubusercontent.com/u/78981177?v=4",
   "categories": [
     {
-      "slug": "programming | web-development",
-      "topics": ["javascript", "nodejs",  "expressjs", "mongodb"]
+      "slug": "programming",
+      "topics": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "frontend-development",
+      "topics": [
+        "ReactJS"
+      ]
+    },
+    {
+      "slug": "backend-development",
+      "topics": [
+        "NodeJS",
+        "ExpressJS"
+      ]
+    },
+    {
+      "slug": "database-development",
+      "topics": [
+        "MongoDB",
+        "MySQL"
+      ]
     }
   ],
   "contacts": {, 
