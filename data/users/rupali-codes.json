@@ -1,0 +1,31 @@
+{
+  "name": "Rupali Haldiya",
+  "bio": "Full Stack Developer",
+  "image": "https://avatars.githubusercontent.com/u/78981177?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "web-development",
+      "topics": [
+        "ReactJS",
+        "NodeJS",
+        "ExpressJS"
+      ]
+    },
+    {
+      "slug": "database-development",
+      "topics": [
+        "MongoDB",
+        "MySQL"
+      ]
+    }
+  ],
+  "contacts": {
+    "twitter": "rupali_codes"
+  }
+}
