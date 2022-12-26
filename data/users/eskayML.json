@@ -5,8 +5,8 @@
   "image": "<IMAGE URL>",
   "categories": [
     {
-      "slug": "programming | software-development | web-development | mobile-development | data-science",
-      "topics": []
+      "slug": "programming | data-science",
+      "topics": [Machine Learning, Deep Learning, Transformers]
     }
   ],
   "contacts": {
