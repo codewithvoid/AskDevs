@@ -6,9 +6,9 @@
   "categories": [
     {
       "slug": "programming | data-science",
-      "topics": ["Machine Learning", "Deep Learning", "Transformers"]
+      "topics": ["Machine Learning", "Deep Learning", "Transformers"]}
   ,
-"contact
+"contact":{
     "twitter": "eskayML "
   }
 }
