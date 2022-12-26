@@ -10,14 +10,9 @@
       ]
     },
     {
-      "slug": "frontend-development",
+      "slug": "web-development",
       "topics": [
-        "ReactJS"
-      ]
-    },
-    {
-      "slug": "backend-development",
-      "topics": [
+        "ReactJS",
         "NodeJS",
         "ExpressJS"
       ]
