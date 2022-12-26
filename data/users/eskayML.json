@@ -2,13 +2,12 @@
 {
   "name": "Samuel Kalu",
   "bio": "e.g Python Developer | Web Dev | Data Scientist ",
-  "image": "<IMAGE URL>",
+  "image": "https://avatars.githubusercontent.com/u/71832907",
   "categories": [
     {
       "slug": "programming | data-science",
       "topics": ["Machine Learning", "Deep Learning", "Transformers"]}
-],
-  "contacts": {
+  "contact
     "twitter": "eskayML "
   }
 }
