@@ -1,0 +1,22 @@
+{
+  "name": "Sumit Kumar Soni",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/93514460?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["Tailwind-CSS", "ReactJS", "CSS"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["JavaScript"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["Vim", "Linux"]
+    }
+  ],
+  "contacts": {
+    "twitter": "zelfroster"
+  }
+}
