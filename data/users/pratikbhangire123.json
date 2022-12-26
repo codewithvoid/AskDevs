@@ -1,0 +1,14 @@
+{
+"name": "Pratik Bhangire",
+ "bio": "Frontend Developer",
+ "image": "https://avatars.githubusercontent.com/u/34596529?v=4",
+ "categories": [
+   {
+     "slug": "web-development",
+     "topics": ["ReactJS", "EthersJS", "TailwindCSS"]
+   }
+ ],
+  "contacts": {
+    "twitter" : "PratikBhangire"
+  }
+}
