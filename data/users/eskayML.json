@@ -1,1 +1,15 @@
 
+{
+  "name": "Samuel Kalu",
+  "bio": "e.g Python Developer | Web Dev | Data Scientist ",
+  "image": "<IMAGE URL>",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development | mobile-development | data-science",
+      "topics": []
+    }
+  ],
+  "contacts": {
+    "twitter": "eskayML "
+  }
+}
