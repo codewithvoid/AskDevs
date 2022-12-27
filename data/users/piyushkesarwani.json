@@ -5,11 +5,11 @@
   "categories": [
     {
       "slug": "programming",
-      "topics": ["Java", "C++", "DSA"]
+      "topics": ["C++", "JavaScript", "DSA"]
     }
     {
       "slug": "web-development",
-      "topics": ["MERN", "JavaScript"]
+      "topics": ["MERN"]
     }
   ],
   "contacts": {
