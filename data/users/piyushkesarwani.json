@@ -1,0 +1,18 @@
+{
+  "name": "Piyush Kesarwani",
+  "bio": "Full Stack Developer",
+  "image": "https://avatars.githubusercontent.com/u/99383186?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["C++", "JavaScript", "DSA"]
+    }
+    {
+      "slug": "web-development",
+      "topics": ["MERN"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Hy_piyush"
+  }
+}
