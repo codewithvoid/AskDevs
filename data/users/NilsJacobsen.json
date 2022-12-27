@@ -5,11 +5,11 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": [react, nextjs, recoil, tailwind]
+      "topics": ["react", "nextjs", "recoil", "tailwind"]
     },
     {
       "slug": "interaction-design",
-      "topics": [figma, accessibility, tailwind, patterns, funnel]
+      "topics": ["figma", "accessibility", "tailwind", "patterns", "funnel"]
     }
   ],
   "contacts": {
