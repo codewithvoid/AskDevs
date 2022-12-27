@@ -1,0 +1,22 @@
+{
+  "name": "Shantanu Kandale",
+  "bio": "Backend Engineer",
+  "image": "https://avatars.githubusercontent.com/u/40430224",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Golang", "Javascript"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["Backend", "Frontend"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["Javascript", "ReactJS"]
+    }
+  ],
+  "contacts": {
+    "twitter": "SGKandale"
+  }
+}
