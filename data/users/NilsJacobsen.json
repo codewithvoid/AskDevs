@@ -1,15 +1,11 @@
 {
   "name": "Nils Jacobsen",
-  "bio": "Frontend Dev and Interaction Designer",
-  "image": "https://pbs.twimg.com/profile_images/1491468272226779145/P4zfulvL_400x400.jpg",
+  "bio": "Frontend Dev",
+  "image": "https://avatars.githubusercontent.com/u/58360188?v=4",
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["react", "nextjs", "recoil", "tailwind"]
-    },
-    {
-      "slug": "interaction-design",
-      "topics": ["figma", "accessibility", "tailwind", "patterns", "funnel"]
+      "topics": ["nextjs", "recoil", "tailwind"]
     }
   ],
   "contacts": {
