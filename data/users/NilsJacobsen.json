@@ -1,0 +1,14 @@
+{
+  "name": "Nils Jacobsen",
+  "bio": "Frontend Dev",
+  "image": "https://avatars.githubusercontent.com/u/58360188?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["nextjs", "recoil", "tailwind"]
+    }
+  ],
+  "contacts": {
+    "twitter": "_NilsJacobsen"
+  }
+}
