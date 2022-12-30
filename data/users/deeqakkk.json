@@ -1,0 +1,12 @@
+{
+    "name": "Deepak Verma",
+    "bio": "FullStack Developer",
+    "image": "https://avatars.githubusercontent.com/u/78724676?s=400&u=3dfb38a7c75785b69babed9d69048896e3a43b17&v=4",
+    "categories": [{
+        "slug": "web-development",
+        "topics": ["C++", "DSA", "Fullstack Development"]
+    }],
+    "contacts": {
+        "twitter": "deeqakkk"
+    }
+}
