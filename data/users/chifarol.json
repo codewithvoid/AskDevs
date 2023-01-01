@@ -1,0 +1,14 @@
+{
+  "name": "Ilodigwe Chinaza",
+  "bio": "MERN | Django | Wordpress Theme/Plugin Developer ",
+  "image": "https://res.cloudinary.com/chifarol/image/upload/v1672081678/my-pictures/xsplash_202291394119351_sfnfb6.jpg",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development | wordpress | full-stack",
+      "topics": []
+    }
+  ],
+  "contacts": {
+    "twitter": "https://twitter.com/ilodigwechinaza"
+  }
+}
