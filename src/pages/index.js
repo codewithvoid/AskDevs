@@ -68,6 +68,14 @@ export default function Home({ users, categories }) {
   return (
     <div>
       <Head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JB4S5EKQP6"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-JB4S5EKQP6');
+        </script>
         <title>AskDevs</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
