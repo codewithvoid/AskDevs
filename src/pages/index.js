@@ -83,18 +83,18 @@ export default function Home({ users, categories }) {
         <section className="container mx-auto px-5 pt-10">
           <h1 className="my-4 text-5xl font-bold leading-tight">Got a technical question?</h1>
           <p className="mb-8 text-3xl leading-normal">Ask our tech twitter volunteers!</p>
-          <div className="flex flex-wrap space-x-2">
+          <div className="flex flex-wrap gap-2 max-sm:flex-col max-sm:items-start">
             {categories.map((c) =>
               c.slug === selectedCategory ? (
                 <button
-                  className="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold bg-black text-white"
+                  className="rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold bg-black text-white"
                   key={`${c.slug}`}
                 >
                   {c.name}
                 </button>
               ) : (
                 <button
-                  className="mt-1 rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold text-black hover:bg-black hover:text-white"
+                  className="rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold text-black hover:bg-black hover:text-white"
                   key={`${c.slug}`}
                   data-slug={`${c.slug}`}
                   onClick={onCategoryButtonClick}
