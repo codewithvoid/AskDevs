@@ -5,11 +5,11 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["ReactJS", "Redux", "HTML", "CSS"]
+      "topics": ["ReactJS", "Redux"]
     },
     {
       "slug": "programming",
-      "topics": ["Python", "Javascript", "Typescript", "C", "C++"]
+      "topics": ["Python", "Javascript", "Typescript"]
     }
   ],
   "contacts": {
