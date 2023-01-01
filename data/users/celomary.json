@@ -1,0 +1,14 @@
+{
+  "name": "Mohamed El omary",
+  "bio": "fontend developer | software developer",
+  "image": "https://avatars.githubusercontent.com/u/59455493?v=4",
+  "categories": [
+    {
+      "slug": "web-development | programming | software-development",
+      "topics": ["JavaScript", "ReactJS", "Redux", "Python"]
+    }
+  ],
+  "contacts": {
+    "twitter": "c99elomary"
+  }
+}
