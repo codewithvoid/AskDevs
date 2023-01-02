@@ -1,0 +1,14 @@
+{
+  "name": "Akash Kumar",
+  "bio": "Software Developer",
+  "image": "https://avatars.githubusercontent.com/u/53661628?v=4",
+  "categories": [
+    {
+      "slug": "programming | software-development",
+      "topics": ["Java", "Data structures", "Algorithms"]
+    }
+  ],
+  "contacts": {
+    "twitter": "leverage_code"
+  }
+}
