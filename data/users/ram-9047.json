@@ -1,0 +1,29 @@
+{
+  "name": "Ram",
+  "bio": "Backend Developer",
+  "image": "https://twitter.com/dev_ram9047/photo",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["JavaScript","Typescript"]
+    },
+    {
+      "slug": "web-development",
+      "topics": [
+        "ReactJS",
+        "NodeJS",
+        "ExpressJS"
+      ]
+    },
+    {
+      "slug": "database-development",
+      "topics": [
+        "MongoDB",
+        "MySQL"
+      ]
+    }
+  ],
+  "contacts": {
+    "twitter": "dev_ram9047"
+  }
+}
