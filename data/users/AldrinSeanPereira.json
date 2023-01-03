@@ -1,0 +1,14 @@
+{
+  "name": "Aldrin Sean Pereira",
+  "bio": "Software Engineer",
+  "image": "https://avatars.githubusercontent.com/u/54813708?v=4",
+  "categories": [
+    {
+      "slug": "software-development",
+      "topics": [C, C#, Python]
+    }
+  ],
+  "contacts": {
+    "twitter": "aaaldehyde",
+  }
+}
