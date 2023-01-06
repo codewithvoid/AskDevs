@@ -12,7 +12,7 @@
 
       "slug": "programming",
 
-      "topics": ["JavaScript"]
+      "topics": ["JavaScript", "C++"]
 
     },
     {
@@ -27,6 +27,13 @@
       "slug": " backend-development",
 
       "topics": ["Nodejs"]
+
+    },
+     {
+
+      "slug": " software-development",
+
+      "topics": ["Nextjs, Reactjs, Mongodb, Expressjs"]
 
     }
 
