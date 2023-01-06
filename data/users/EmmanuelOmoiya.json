@@ -4,15 +4,29 @@
 
   "bio": "Software Engineer",
 
-  "image": "https://ibb.co/vZj86wt",
+  "image": "https://avatars.githubusercontent.com/u/79797604?s=96&v=4",
 
   "categories": [
 
     {
 
-      "slug": "programming | software-development | web-development",
+      "slug": "programming",
 
-      "topics": []
+      "topics": ["JavaScript"]
+
+    },
+    {
+
+      "slug": " webdevelopment",
+
+      "topics": ["Nextjs"]
+
+    },
+     {
+
+      "slug": " backend-development",
+
+      "topics": ["Nodejs"]
 
     }
 
