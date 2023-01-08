@@ -41,7 +41,7 @@ STEPS :
 
 Everyone in this community (from core members to random committers and volunteers) are asked to please act in accordance with the AskDevs Community Contributor Code of Conduct. We encourage you to follow these social rules which help guide our interactions with each other, and ensure we provide a safe environment for everyone. We aim to make AskDevs a positive, welcoming, open and inclusive project and community.
 
-[Code of Conduct](code-of-conduct.md)
+[Code of Conduct](https://github.com/codewithvoid/AskDevs/blob/main/CODE_OF_CONDUCT.md)
 
 <!--- ## 👨‍🍳 Contribute
 
