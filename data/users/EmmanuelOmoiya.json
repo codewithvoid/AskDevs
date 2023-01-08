@@ -1,48 +1,22 @@
 {
-
   "name": "Emmanuel Omoiya",
-
   "bio": "Software Engineer",
-
   "image": "https://avatars.githubusercontent.com/u/79797604?s=96&v=4",
-
   "categories": [
-
     {
-
       "slug": "programming",
-
       "topics": ["JavaScript", "C++"]
-
     },
     {
-
-      "slug": " webdevelopment",
-
-      "topics": ["Nextjs"]
-
+      "slug": " web-development",
+      "topics": ["Nextjs", "Nodejs", "Expressjs"]
     },
      {
-
-      "slug": " backend-development",
-
-      "topics": ["Nodejs"]
-
-    },
-     {
-
-      "slug": " software-development",
-
-      "topics": ["Nextjs, Reactjs, Mongodb, Expressjs"]
-
+      "slug": " database-development",
+      "topics": ["Nodejs, "Mongodb"]
     }
-
   ],
-
   "contacts": {
-
-    "twitter": "Emmanuel_Omoiya?t=SiPHOl1dV9sHDAIziLufFA&s=09"
-
+    "twitter": "Emmanuel_Omoiya"
   }
-
 }
