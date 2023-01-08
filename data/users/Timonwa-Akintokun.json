@@ -1,0 +1,14 @@
+{
+  "name": "Timonwa Akintokun",
+  "bio": "Frontend Developer",
+  "image": "<IMAGE URL>",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["ReactJs" , "JavaScript"]
+    },
+  ],
+  "contacts": {
+    "twitter": "timonwa_"
+  }
+}
