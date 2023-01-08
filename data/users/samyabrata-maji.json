@@ -1,10 +1,10 @@
 {
     "name": "Samyabrata Maji",
-    "bio": "Frontend Engineer | Designer",
+    "bio": "Frontend Engineer",
     "image": "https://avatars.githubusercontent.com/u/116789799?v=4",
     "categories": [
         {
-            "slug": "programming | web-development",
+            "slug": "web-development",
             "topics": [
                 "javascript",
                 "typescript",
