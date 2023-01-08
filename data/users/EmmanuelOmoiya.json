@@ -8,12 +8,12 @@
       "topics": ["JavaScript", "C++"]
     },
     {
-      "slug": " web-development",
+      "slug": "web-development",
       "topics": ["Nextjs", "Nodejs", "Expressjs"]
     },
      {
-      "slug": " database-development",
-      "topics": ["Nodejs, "Mongodb"]
+      "slug": "database-development",
+      "topics": ["Mongodb"]
     }
   ],
   "contacts": {
