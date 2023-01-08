@@ -11,7 +11,11 @@
       "slug": "web-development",
       "topics": ["Nextjs", "Nodejs", "Expressjs"]
     },
-     {
+    {
+      "slug": "software-development",
+      "topics": ["MERN", "git", "open source"]
+    },
+    {
       "slug": "database-development",
       "topics": ["Mongodb"]
     }
