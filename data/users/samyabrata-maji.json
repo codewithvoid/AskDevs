@@ -4,13 +4,11 @@
     "image": "https://avatars.githubusercontent.com/u/116789799?v=4",
     "categories": [
         {
-            "slug": "web-development",
+            "slug": "programming",
             "topics": [
                 "javascript",
-                "typescript",
                 "java",
-                "python",
-                "kotlin"
+                "python"
             ]
         }
     ],
