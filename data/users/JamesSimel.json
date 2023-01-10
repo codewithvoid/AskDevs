@@ -4,7 +4,7 @@
     "image": "https://avatars.githubusercontent.com/u/76014395?v=4",
       "categories": [
     {
-      "slug": "programming ",
+      "slug": "programming",
       "topics": [
         "JavaScript"
       ]
@@ -20,7 +20,7 @@
     {
       "slug": "database-development",
       "topics": [
-        "PostgreSQl"
+        "PostgreSQL"
       ]
     }
 ],
