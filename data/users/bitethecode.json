@@ -1,0 +1,14 @@
+{
+  "name": "Joonhyeok Ahn",
+  "bio": "Software Engineer",
+  "image": "",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development",
+      "topics": ["backend", "open-source", "algorithms"]
+    }
+  ],
+  "contacts": {
+    "twitter": "bitethecode"
+  }
+}
