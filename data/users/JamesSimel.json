@@ -2,24 +2,28 @@
     "name": "James Simel",
     "bio": "Full Stack Dev",
     "image": "https://avatars.githubusercontent.com/u/76014395?v=4",
-    "categories": [
-      {
-        "slug": "programming | software-development ",
-        "topics": ["JavaScript", "CSS", "CSS", "React"]
-      },
-      {
-        "slug": "Coding Challenges",
-        "topics": ["codewars", "HackerRank"]
-      },
-      {
-        "slug": "BackEnd",
-        "topics": ["Nodejs", "Expressjs", "PostgreSQl"]
-      },
-      {
-        "slug": "Advice For Devs",
-        "topics": "Any"
-      }
-    ],
+      "categories": [
+    {
+      "slug": "programming ",
+      "topics": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "web-development",
+      "topics": [
+        "CSS",
+        "ReactJS",
+        "ExpressJS"
+      ]
+    },
+    {
+      "slug": "database-development",
+      "topics": [
+        "PostgreSQl"
+      ]
+    }
+],
     "contacts": {
       "twitter": "Simel89429356"
     }
