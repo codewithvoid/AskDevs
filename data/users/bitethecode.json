@@ -1,11 +1,15 @@
 {
   "name": "Joonhyeok Ahn",
   "bio": "Software Engineer",
-  "image": "",
+  "image": "https://avatars.githubusercontent.com/u/92326584?v=4",
   "categories": [
     {
-      "slug": "programming | software-development | web-development",
-      "topics": ["backend", "open-source", "algorithms"]
+      "slug": "programming",
+      "topics": ["algorithms", "system design", "python", "go"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["open-source"]
     }
   ],
   "contacts": {
