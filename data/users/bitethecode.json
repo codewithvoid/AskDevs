@@ -5,12 +5,12 @@
   "categories": [
     {
       "slug": "programming",
-      "topics": ["algorithms", "system design", "python", "go"]
+      "topics": ["algorithms", "python", "go"]
     },
     {
       "slug": "software-development",
-      "topics": ["open-source"]
-    }
+      "topics": ["open-source", "system-design"]
+    },
   ],
   "contacts": {
     "twitter": "bitethecode"
