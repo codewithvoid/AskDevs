@@ -1,0 +1,22 @@
+{
+  "name": "Pierizvi",
+  "bio": "Open-Source Software developer | Security Analyst",
+  "image": "https://avatars.githubusercontent.com/u/98248598?v=4",
+  "categories": [
+    {
+      "slug": "Programming",
+      "topics": ["Python", "Javascript", "HTML", "CSS", "C++","SQL"]
+    },
+    {
+      "slug": "Software-Development",
+      "topics": ["Full-Stack", "Linux", "Api-Development"]
+    },
+    {
+      "slug": "Cybersecurity",
+      "topics": ["Critical infrastructure security", "Application security", "Internet of Things (IoT) security"]
+    },
+  ],
+  "contacts": {
+    "twitter": "pierizvi"
+  }
+}
