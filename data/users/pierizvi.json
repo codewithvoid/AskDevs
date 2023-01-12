@@ -28,12 +28,8 @@
   },
   {
     "slug": "software-development",
-    "topics": [
-      "devops" ,
-      "api-development",
-      
-      
-    ]
+    "topics": ["api-development"
+  ]
    
   }
   
