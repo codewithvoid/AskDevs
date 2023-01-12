@@ -7,30 +7,30 @@
   {
     "slug": "programming",
     "topics": [
-      "Python",
-      "JavaScript",
-      "C++"
+      "python",
+      "javaScript",
+      "c++"
     ]
   },
   {
     "slug": "web-development",
     "topics": [
-      "HTML",
-      "CSS"
+      "html",
+      "css"
     ]
   },
   {
     "slug": "database-development",
     "topics": [
-      "SQL",
+      "sql",
     ]
    
   },
   {
     "slug": "software-development",
     "topics": [
-      "DevOps" ,
-      "Api-development",
+      "devops" ,
+      "api-development",
       
       
     ]
