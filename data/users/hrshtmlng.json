@@ -1,0 +1,14 @@
+{
+  "name": "Harshit Malang",
+  "bio": "Im bridging the gap between design and code as a Frontend Developer",
+  "image": "https://twitter.com/hrshtmlng/photo",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development ",
+      "topics": ["HTML6","CSS3","JavaScript","Python"]
+    }
+  ],
+  "contacts": {
+    "twitter": "https://twitter.com/hrshtmlng"
+  }
+}
