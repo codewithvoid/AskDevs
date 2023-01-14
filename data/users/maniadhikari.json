@@ -1,0 +1,14 @@
+{
+  "name": "Manikanta Adhikari",
+  "bio": "Web Devevloper",
+  "image": "https://pbs.twimg.com/profile_images/1606179976159842306/iPN4q7sK_400x400.jpg",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "maniadhikarii"
+  }
+}
