@@ -5,10 +5,18 @@
     "categories": [
         {
             "slug": "web-development",
-            "topics": ["html", "css", "javascript", "react", "java" ]
+            "topics": [
+                "html",
+                "css",
+                "react"
+            ]
+        },
+        {
+            "slug": "programming",
+            "topics": [
+                "javascript",
+                "java"
+            ]
         }
-    ],
-    "contacts": {
-        "twitter": "sumanpaikdev"
-    }
+    ]
 }
