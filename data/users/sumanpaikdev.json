@@ -1,0 +1,14 @@
+{
+    "name": "Suman Paik",
+    "bio": "Frontend Web Developer",
+    "image": "https://avatars.githubusercontent.com/u/93247057?v=4",
+    "categories": [
+        {
+            "slug": "web-development",
+            "topics": ["html", "css", "javascript", "react", "java" ]
+        }
+    ],
+    "contacts": {
+        "twitter": "sumanpaikdev"
+    }
+}
