@@ -1,6 +1,6 @@
 {
   "name": "Pierizvi",
-  "bio": "Open-Source Software developer",
+  "bio": "OSS-developer",
   "image": "https://avatars.githubusercontent.com/u/98248598?v=4",
   "categories": 
    [
@@ -22,21 +22,15 @@
   {
     "slug": "database-development",
     "topics": [
-      "sql",
+      "sql"
     ]
-   
   },
   {
     "slug": "software-development",
     "topics": ["api-development"
-  ]
-   
-  }
-  
-  
-]
-    
-  ,
+  ]  
+  } 
+]  ,
   "contacts": {
     "twitter": "pierizvi"
   }
