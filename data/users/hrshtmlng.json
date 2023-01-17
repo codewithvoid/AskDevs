@@ -3,12 +3,24 @@
   "bio": "Frontend Developer",
   "image": "https://twitter.com/hrshtmlng/photo",
   "categories": [
-    {
-      "slug": "programming | software-development | web-development ",
-      "topics": ["HTML5","CSS3","JavaScript","Python"]
-    }
+    [
+  {
+    "slug": "web-development",
+    "topics": [
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "slug": "programming",
+    "topics": [
+      "JavaScript",
+      "Python"
+    ]
+  }
+]
   ],
   "contacts": {
-    "twitter": "hrshtmlng"
+    "twitter": "https://twitter.com/hrshtmlng"
   }
 }
