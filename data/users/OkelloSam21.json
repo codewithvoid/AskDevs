@@ -1,0 +1,19 @@
+{
+  "name": "Okello Samuel",
+  "bio": "Java Developer",
+  "image": "<IMAGE URL>",
+  "categories": [
+    {
+      "slug": "programming ",
+      "topics": ["Java,Javascript,kotlin"]
+    }
+    
+   {
+       "slug": "Web-Development",
+        "topics":["Html5,Css,Javascript"]         
+    }
+  ],
+  "contacts": {
+    "twitter": "0kello_sam"
+  }
+}
