@@ -3,6 +3,7 @@ import { TwitterShareButton } from 'react-share';
 import { useState } from 'react';
 import { shuffle } from 'fast-shuffle';
 import dynamic from 'next/dynamic';
+import Footer from '../components/Footer';
 
 const HeaderLogo = dynamic(() => import('../components/HeaderLogo'), { ssr: false });
 export async function getServerSideProps(context) {
@@ -105,11 +106,13 @@ export default function Home({ users, categories }) {
             )}
           </div>
         </section>
-
-        <section className="container  mx-auto body-font h-screen min-h-screen text-gray-600 px-5 py-10">
-          <div className="-m-4 flex flex-wrap">{categoryUsers.map(getProfileCard)}</div>
+                  
+        <section className="container  mx-auto body-font text-gray-600 px-5 py-10">
+          <div className="m-4 flex flex-wrap">{categoryUsers.map(getProfileCard)}</div>
         </section>
       </main>
+      
+      <Footer/> 
     </div>
   );
 }

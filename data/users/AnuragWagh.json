@@ -1,0 +1,22 @@
+{
+    "name": "Anurag Wagh",
+    "bio": "AI/ML | Cloud",
+    "image": "https://avatars.githubusercontent.com/u/56196363?v=4",
+    "categories": [
+        {
+            "slug": "programming",
+            "topics": ["CPP"]
+        },
+      {
+        "slug": "AI-ML",
+        "topics": ["Role of AI/ML"]
+      },
+      {
+        "slug": "Cloud",
+        "topics": ["Cloud"]
+      }
+    ],
+    "contacts": {
+      "twitter": "AnuragWagh_"
+    }
+  }
