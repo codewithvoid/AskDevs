@@ -5,11 +5,11 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["JS", "ReactJs", "MySQL", "express", "nodeJs"]
+      "topics": ["JS", "ReactJs", "MySQL"]
     },
     {
       "slug": "DSA and Programming",
-      "topics": ["C", "Cpp", "Java", "Python"]
+      "topics": ["C", "Cpp", "Java"]
     },
     {
       "slug": "Cloud Technologies",
