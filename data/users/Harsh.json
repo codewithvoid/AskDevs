@@ -1,19 +1,15 @@
 {
   "name": "Harsh Thakkar",
-  "bio": "MERN Stack, DSA",
+  "bio": "Web Developer",
   "image": "https://avatars.githubusercontent.com/u/65072835?v=4",
   "categories": [
     {
-      "slug": "web-development",
+      "slug": "Web Development",
       "topics": ["JS", "ReactJs", "MySQL"]
     },
     {
-      "slug": "DSA and Programming",
+      "slug": "Programming",
       "topics": ["C", "Cpp", "Java"]
-    },
-    {
-      "slug": "Cloud Technologies",
-      "topics": ["AWS"]
     }
   ],
   "contacts": {
