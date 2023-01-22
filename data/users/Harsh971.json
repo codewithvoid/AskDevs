@@ -4,12 +4,20 @@
   "image": "https://avatars.githubusercontent.com/u/65072835?v=4",
   "categories": [
     {
-      "slug": "Web Development",
-      "topics": ["JS", "ReactJs", "MySQL"]
+      "slug": "web-development",
+      "topics": ["JS", "ReactJs"]
     },
     {
-      "slug": "Programming",
-      "topics": ["C", "Cpp", "Java"]
+      "slug": "programming",
+      "topics": ["C", "C++", "Java"]
+    },
+    {
+      "slug": "mobile-development",
+      "topics": ["Android"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MySQL"]
     }
   ],
   "contacts": {
