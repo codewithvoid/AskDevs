@@ -1,0 +1,22 @@
+{
+    "name": "Atul Kumar Awasthi",
+    "bio": "Frontend Developer",
+    "image": "https://miro.medium.com/max/2400/1*jBoeYdc5nolMVt3uwHkFAA.jpeg",
+    "categories": [
+      {
+        "slug": "software-development | web-development | ",
+        "topics": ["HTML", "CSS", "JavaScript", "ReactJS", "Next JS", "Tailwind CSS"," Material-UI","GIT"]
+      },
+      {
+        "slug": "programming",
+        "topics": ["JavaScript","Java"]
+      },  
+      {
+        "slug": "crossFit",
+        "topics": ["Kung-Fu-Wusu (Combat-National)","tai-chi"]
+      }
+    ],
+    "contacts": {
+      "twitter": "atulkawasthi"
+    }
+  }
