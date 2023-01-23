@@ -4,8 +4,8 @@
     "image": "https://miro.medium.com/max/2400/1*jBoeYdc5nolMVt3uwHkFAA.jpeg",
     "categories": [
       {
-        "slug": "software-development | web-development | ",
-        "topics": ["HTML", "CSS", "JavaScript", "ReactJS", "Next JS", "Tailwind CSS"," Material-UI","GIT"]
+        "slug": "web-development",
+        "topics": ["ReactJS", "Next JS", "NodeJS"]
       },
       {
         "slug": "programming",
