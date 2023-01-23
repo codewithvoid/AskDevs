@@ -5,12 +5,12 @@
   "categories": [
     {
       "slug": "programming ",
-      "topics": ["Java,Javascript,kotlin"]
+      "topics": ["Java","Javascript","kotlin"]
     }
     
    {
        "slug": "Web-Development",
-        "topics":["Html5,Css,Javascript"]         
+        "topics":["Html5","Css","Javascript"]         
     }
   ],
   "contacts": {
