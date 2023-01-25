@@ -5,7 +5,7 @@
   "categories": [
     {
       "slug": "programming",
-      "topics": ["Python", "JavaScript", "Web3"]
+      "topics": ["Python", "JavaScript", "Solidity"]
     },{
       "slug": "web-development",
       "topics": ["ReactJS", "NodeJS"]
