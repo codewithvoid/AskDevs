@@ -1,0 +1,20 @@
+{
+  "name": "Pranshu Jha",
+  "bio": "Full-Stack Developer",
+  "image": "https://avatars.githubusercontent.com/u/58560660?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Python", "JavaScript", "Solidity"]
+    },{
+      "slug": "web-development",
+      "topics": ["ReactJS", "NodeJS"]
+    },{
+      "slug": "mobile-development",
+      "topics": ["React Native"]
+    }
+  ],
+  "contacts": {
+    "twitter": "pranshuj73"
+  }
+}
