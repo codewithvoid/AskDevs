@@ -2,35 +2,24 @@
   "name": "Murtaza Rizvi",
   "bio": "OSS-developer",
   "image": "https://avatars.githubusercontent.com/u/98248598?v=4",
-  "categories": 
-   [
-  {
-    "slug": "programming",
-    "topics": [
-      "python",
-      "javaScript",
-      "c++"
-    ]
-  },
-  {
-    "slug": "web-development",
-    "topics": [
-      "html",
-      "css"
-    ]
-  },
-  {
-    "slug": "database-development",
-    "topics": [
-      "sql"
-    ]
-  },
-  {
-    "slug": "software-development",
-    "topics": ["api-development"
-  ]  
-  } 
-]  ,
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["python", "javaScript", "c++"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["html", "css"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["sql"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["api-development"]
+    }
+  ],
   "contacts": {
     "twitter": "pierizvi"
   }
