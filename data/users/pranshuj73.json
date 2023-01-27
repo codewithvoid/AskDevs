@@ -6,10 +6,12 @@
     {
       "slug": "programming",
       "topics": ["Python", "JavaScript", "Solidity"]
-    },{
+    },
+    {
       "slug": "web-development",
       "topics": ["ReactJS", "NodeJS"]
-    },{
+    },
+    {
       "slug": "mobile-development",
       "topics": ["React Native"]
     }
