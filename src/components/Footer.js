@@ -18,7 +18,7 @@ const Footer = () => {
       <h2 class="title-font font-large text-white tracking-widest text-xl mb-3">Connect</h2>
         <nav class="list-none mb-10">
           <li>
-            <a class="title-font font-medium text-white tracking-widest text-xlm mb-3" href='https://twitter.com/codewithvoid'>twitter</a>
+            <a class="title-font font-medium text-white tracking-widest text-xlm mb-3" href='https://twitter.com/codewithvoid'>Twitter</a>
           </li>
           <li class="pt-3">
             <a class="title-font font-medium text-white tracking-widest text-sm mb-3" href='https://github.com/codewithvoid/AskDevs/blob/main/CODE_OF_CONDUCT.md'>Code of Conduct</a>
