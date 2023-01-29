@@ -1,11 +1,15 @@
 {
   "name": "Ugyen Wangdi",
-  "bio": "Full Stack developer | API developer ",
+  "bio": "Full Stack Developer",
   "image": "https://avatars.githubusercontent.com/u/57824653?v=4",
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["Django", "API", "JavaScript"]
+      "topics": ["Django", "API"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["python", "javascript"]
     }
   ],
   "contacts": {
