@@ -6,6 +6,10 @@
     {
       "slug": "web-development",
       "topics": ["ReactJS","Tailwind","Javascript"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Javascript","Java"]
     }
   ],
   "contacts": {
