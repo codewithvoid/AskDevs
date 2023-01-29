@@ -1,0 +1,14 @@
+{
+  "name": "Ugyen Wangdi",
+  "bio": "Full Stack developer | API developer ",
+  "image": "https://avatars.githubusercontent.com/u/57824653?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["Django", "API", "JavaScript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "wu_25iytt"
+  }
+}
