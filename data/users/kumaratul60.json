@@ -1,7 +1,7 @@
 {
     "name": "Atul Kumar Awasthi",
     "bio": "Frontend Developer",
-    "image": "https://miro.medium.com/max/2400/1*jBoeYdc5nolMVt3uwHkFAA.jpeg",
+    "image": "https://drive.google.com/file/d/14VhC7xN1jBcnvDWGSzRcN94nwaczpS96/view?usp=share_link",
     "categories": [
       {
         "slug": "web-development",
@@ -13,7 +13,7 @@
       },  
       {
         "slug": "other",
-        "topics": ["Kung-Fu-Wusu (Combat-National, 2022)","tai-chi"]
+        "topics": ["Kung-Fu-Wusu (Combat-National)","tai-chi"]
       }
     ],
     "contacts": {
