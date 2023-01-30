@@ -1,0 +1,23 @@
+{
+  "name": "Lavanya Yangala",
+  "bio": "Web Development | Aspiring Developer now working on Python Programming | Software Trainee | Open to Work",
+  "image": "https://avatars.githubusercontent.com/u/74892542?v=4",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development | mobile-development | data-science",
+      "topics": [
+        "HTML",
+        "CSS",
+        "Python",
+        "Angular",
+        "Xamarin",
+        "My SQL",
+        "MongoDB",
+        "Microsot SQL Server",
+        ]
+    }
+  ],
+  "contacts": {
+    "twitter": "<https://twitter.com/Lavanya45752554>"
+  }
+}
