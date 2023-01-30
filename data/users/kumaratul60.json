@@ -5,15 +5,15 @@
     "categories": [
       {
         "slug": "web-development",
-        "topics": ["ReactJS", "Next JS", "NodeJS"]
+        "topics": ["ReactJS", "NextJS", "NodeJS"]
       },
       {
         "slug": "programming",
         "topics": ["JavaScript","Java"]
       },  
       {
-        "slug": "crossFit",
-        "topics": ["Kung-Fu-Wusu (Combat-National)","tai-chi"]
+        "slug": "other",
+        "topics": ["Kung-Fu-Wusu (Combat-National, 2022)","tai-chi"]
       }
     ],
     "contacts": {
