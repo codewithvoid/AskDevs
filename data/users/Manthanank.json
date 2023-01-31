@@ -1,0 +1,22 @@
+{
+  "name": "Manthan Ank",
+  "bio": "Front End Developer",
+  "image": "https://avatars.githubusercontent.com/u/50883320?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["JavaScript"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["AngularJS","NodeJS", "ExpressJS"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["Mongodb", "Firebase", "MySQL"]
+    }
+  ],
+  "contacts": {
+    "twitter": "manthan_ank"
+  }
+}
