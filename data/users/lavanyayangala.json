@@ -1,23 +1,44 @@
 {
-  "name": "Lavanya Yangala",
-  "bio": "Web Development | Aspiring Developer now working on Python Programming | Software Trainee | Open to Work",
-  "image": "https://avatars.githubusercontent.com/u/74892542?v=4",
-  "categories": [
-    {
-      "slug": "programming | software-development | web-development | mobile-development | data-science",
-      "topics": [
-        "HTML",
-        "CSS",
-        "Python",
-        "Angular",
-        "Xamarin",
-        "My SQL",
-        "MongoDB",
-        "Microsot SQL Server",
-        ]
-    }
-  ],
-  "contacts": {
-    "twitter": "<https://twitter.com/Lavanya45752554>"
-  }
+	"name": "Lavanya Yangala",
+	"bio": "Web Developer",
+	"image": "https://avatars.githubusercontent.com/u/74892542?v=4",
+	"categories": [{
+			"slug": "Web Development",
+			"topics": [
+				"HTML",
+				"CSS",
+				"Bootstrap",
+				"Angular"
+			]
+		},
+		{
+			"slug": "programming",
+			"topics": [
+				"Python"
+			]
+		},
+		{
+			"slug": "mobile-development",
+			"topics": [
+				"Xamarin"
+			]
+		},
+		{
+			"slug": "database-development",
+			"topics": [
+				"MySQL",
+				"MongoDB",
+				"MS SQL Server"
+			]
+		},
+		{
+			"slug": "Business Analysis",
+			"topics": [
+				"PowerBI"
+			]
+		}
+	],
+	"contacts": {
+		"twitter": "Lavanya45752554"
+	}
 }
