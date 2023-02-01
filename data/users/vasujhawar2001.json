@@ -1,0 +1,23 @@
+{
+  "name": "Vasu Jhawar",
+  "bio": "Software Engineer",
+  "image": "https://pbs.twimg.com/profile_images/1485515284526297090/kL9h_WcB_400x400.jpg",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["react.js", "next.js", "mongoDB"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["javascript", "pyhton", "TypeScript", "Java"]
+    },
+    {
+      "slug": "Computer Science",
+      "topics": ["Data Structures","Algorithms","Systems Design"]
+    },
+  ],
+  "contacts": {
+    "twitter": "JhawarVasu"
+  }
+}
+
