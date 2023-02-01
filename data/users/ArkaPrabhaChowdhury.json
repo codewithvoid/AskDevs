@@ -1,0 +1,18 @@
+{
+  "name": "Arka Prabha Chowdhury",
+  "bio": "Frontend developer",
+  "image": "https://avatars.githubusercontent.com/u/92904175?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["ReactJS","TailwindCSS"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Javascript","Java"]
+    }
+  ],
+  "contacts": {
+    "twitter": "arkopra"
+  }
+}
