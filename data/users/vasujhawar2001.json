@@ -1,20 +1,24 @@
 {
   "name": "Vasu Jhawar",
   "bio": "Software Engineer",
-  "image": "https://pbs.twimg.com/profile_images/1485515284526297090/kL9h_WcB_400x400.jpg",
+  "image": "https://avatars.githubusercontent.com/u/59659588?v=4",
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["react.js", "next.js", "mongoDB"]
+      "topics": ["react.js", "next.js"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Javascript", "Data Structures", "Java"]
     },
     {
       "slug": "software-development",
-      "topics": ["javascript", "pyhton", "TypeScript", "Java"]
+      "topics": ["System Design"]
     },
     {
-      "slug": "Computer Science",
-      "topics": ["Data Structures", "Algorithms", "Systems Design"]
-    },
+      "slug": "database-development",
+      "topics": ["SQL", "MongoDB"]
+    }
   ],
   "contacts": {
     "twitter": "JhawarVasu"
