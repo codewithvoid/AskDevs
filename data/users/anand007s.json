@@ -1,0 +1,14 @@
+{
+  "name": "Anand",
+  "bio": "Developer",
+  "image": "https://twitter.com/anand01twt/photo",
+  "categories": [
+    {
+      "slug": "Web-developer",
+      "topics": ["Linux","Markdonw","Html","Css","Javascript","ReactJs","Java","SpringBoot"]
+    }
+  ],
+  "contacts": {
+    "twitter": "@anand01twt"
+  }
+}
