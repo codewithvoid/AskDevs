@@ -1,0 +1,26 @@
+{
+  "name": "Vasu Jhawar",
+  "bio": "Software Engineer",
+  "image": "https://avatars.githubusercontent.com/u/59659588?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["react.js", "next.js"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Javascript", "Data Structures", "Java"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["System Design"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["SQL", "MongoDB"]
+    }
+  ],
+  "contacts": {
+    "twitter": "JhawarVasu"
+  }
+}
