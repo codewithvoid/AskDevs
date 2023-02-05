@@ -37,6 +37,27 @@ export default function Home({ users, categories }) {
   }
 
   function getProfileCard(user) {
+
+    function findTopicsBySlug(slug, user) {
+      for (let i = 0; i < user.categories.length; i++) {
+          if (user.categories[i].slug === slug) {
+            return user.categories[i].topics;
+          }
+
+      }
+      return [];
+    }
+
+    function titleCase(str) {
+      var splitStr = str.toLowerCase().split(' ');
+      for (var i = 0; i < splitStr.length; i++) {
+          
+          splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);     
+      }
+  
+      return splitStr.join(' '); 
+   }
+    
     return (
       <div className="w-full p-4 md:w-1/2 lg:w-1/4 flex justify-center" key={user.username}>
         <div className="bg-white flex flex-col items-center justify-center p-4 shadow-lg rounded-2xl w-64 hover:shadow-gray-500">
@@ -50,6 +71,7 @@ export default function Home({ users, categories }) {
             {user.name}
           </p>
           <p className="text-gray-500 font-semibold mt-2">{user.bio}</p>
+          <p className="text-gray-500 font-semibold mt-2 text-center">{titleCase(findTopicsBySlug(selectedCategory,user).join(' '))}</p>
           <div className="w-full mt-8">
             <TwitterShareButton
               title={`@${user.contacts.twitter} <add your question here>`}
