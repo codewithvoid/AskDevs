@@ -58,7 +58,28 @@ export default function Home({ users, categories }) {
       return splitStr.join(' ');
     }
 
+    function Pill({ topic, backgroundColor }) {
+      return (
+        <p className="text-gray-500 font-semibold text-sm mt-2 text-center rounded-full py-2 px-2 inline-block mr-2">
+          {topic}
+        </p>
+      );
+    }
+    
+    function PillList({ topics }) {
+      return (
+        <div className="flex justify-center" style={{ whiteSpace: 'nowrap' }}>
+          {topics.map(topic => (
+            <Pill key={topic} topic={titleCase(topic)}/>
+          ))}
+        </div>
+      );
+    }
+
+    const topics = findTopicsBySlug(selectedCategory, user);
+
     return (
+
       <div className="w-full p-4 md:w-1/2 lg:w-1/4 flex justify-center" key={user.username}>
         <div className="bg-white flex flex-col items-center justify-center p-4 shadow-lg rounded-2xl w-64 hover:shadow-gray-500">
           <img
@@ -71,12 +92,15 @@ export default function Home({ users, categories }) {
             {user.name}
           </p>
           <p className="text-gray-500 font-semibold mt-2">{user.bio}</p>
-          {selectedCategory ?
-            <p className="text-gray-500 font-semibold mt-2 text-center bg-gray-200 rounded-full py-2 px-4 ">{titleCase(findTopicsBySlug(selectedCategory, user).join(' '))}</p>
-            :
-            <></>
+          <div >
+            {selectedCategory ?
+              <PillList topics={topics} />
+              :
+              <></>
 
-          }
+            }
+
+          </div>
 
           <div className="w-full mt-8">
             <TwitterShareButton
