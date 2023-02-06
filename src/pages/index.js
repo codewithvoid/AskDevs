@@ -60,17 +60,42 @@ export default function Home({ users, categories }) {
 
     function Pill({ topic, backgroundColor }) {
       return (
-        <p className="text-gray-500 font-semibold text-sm mt-2 text-center bg-gray-200 rounded-full py-2 px-2 inline-block mr-2">
+        <p className="text-gray-500 font-semibold text-sm mt-2 text-center rounded-full py-2 px-2 inline-block mr-2" style={{ backgroundColor }}>
           {topic}
         </p>
       );
     }
-    
+    function getBackgroundColor(slug) {
+      if(slug=="web-development"){
+        return "#e5e7eb";
+      }
+      else if(slug=="programming"){
+        return "#b8f8a3";
+      }
+      else if(slug=="software-development"){
+        return "#a1e9e3";
+      }
+      else if(slug=="blockchain-development"){
+        return "#deb3ff";
+      }
+      else if(slug=="database-development"){
+        return "#ffef92";
+      }
+      else if(slug=="mobile-development"){
+        return "#b2e6cb";
+      }
+      else if(slug=="data-science"){
+        return "#ffc39c";
+      }
+      else if(slug=="devops"){
+        return "#bbe3ff";
+      }
+    }
     function PillList({ topics }) {
       return (
         <div className="flex justify-center" style={{ whiteSpace: 'nowrap' }}>
           {topics.map(topic => (
-            <Pill key={topic} topic={titleCase(topic)}/>
+            <Pill key={topic} topic={titleCase(topic)} backgroundColor={getBackgroundColor(selectedCategory)}/>
           ))}
         </div>
       );
