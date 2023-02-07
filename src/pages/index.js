@@ -60,7 +60,7 @@ export default function Home({ users, categories }) {
 
     function Pill({ topic, backgroundColor }) {
       return (
-        <p className="text-gray-500 font-semibold text-sm mt-2 text-center rounded-full py-2 px-2 inline-block mr-2" style={{ backgroundColor }}>
+        <p className="text-gray-500 font-semibold text-xs mt-2 text-center rounded-full py-2 px-3 inline-block mr-2" style={{ backgroundColor }}>
           {topic}
         </p>
       );
