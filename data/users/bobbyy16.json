@@ -27,7 +27,7 @@
     },
     {
       "slug": "Configuration Management",
-      "topics": ["Ansiblr"]
+      "topics": ["Ansible"]
     }
   ],
   "contacts": {
