@@ -4,30 +4,8 @@
   "image": "https://avatars.githubusercontent.com/u/62874675?s=400&u=8cef03bf888fe01b1ef247da5a714e8629442ade&v=4",
   "categories": [
     {
-      "slug": "Linux",
-      "topics": ["Shell Scripting"]
-    },
-      
-    {
-      "slug": "containers",
-      "topics": ["docker, docker-compose"]
-    },
-
-    {
-      "slug": "container orchestration",
-      "topics": ["Kuberenetes"]
-    },
-    {
-      "slug": "AWS",
-      "topics": ["ECR, ECS, EKS"]
-    },
-    {
-      "slug": "Infrastructure provisioning",
-      "topics": ["Terraform"]
-    },
-    {
-      "slug": "Configuration Management",
-      "topics": ["Ansible"]
+      "slug": "Devops",
+      "topics": ["AWS", "Terraform", "docker"]
     }
   ],
   "contacts": {
