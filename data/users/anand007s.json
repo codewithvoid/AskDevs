@@ -1,0 +1,14 @@
+{
+  "name": "Anand",
+  "bio": "Web Developer",
+  "image": "https://pbs.twimg.com/profile_images/1621920209446780929/EqXUbX04_400x400.jpg",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["Html","Css","Javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "anand01twt"
+  }
+}
