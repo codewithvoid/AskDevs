@@ -49,6 +49,9 @@ export default function Home({ users, categories }) {
     }
 
     function titleCase(str) {
+      if(str=="DSA" || str=="DS"){
+        return str;
+      }
       var splitStr = str.toLowerCase().split(' ');
       for (var i = 0; i < splitStr.length; i++) {
 
