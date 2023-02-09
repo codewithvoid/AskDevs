@@ -4,8 +4,8 @@
     "image": "https://avatars.githubusercontent.com/u/65400893?s=96&v=4",
     "categories": [
       {
-        "slug": "cloud",
-        "topics": ["AWS"]
+        "slug": "devops",
+        "topics": ["AWS","Docker"]
       },
       {
         "slug": "web-development",
