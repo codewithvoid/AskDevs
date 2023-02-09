@@ -1,0 +1,14 @@
+{
+  "name": "Abhishek Kumara",
+  "bio": "DevOps engineer",
+  "image": "https://avatars.githubusercontent.com/u/62874675?v=4",
+  "categories": [
+    {
+      "slug": "Devops",
+      "topics": ["AWS", "Terraform", "docker"]
+    }
+  ],
+  "contacts": {
+    "twitter": "bobsstwt"
+  }
+}
