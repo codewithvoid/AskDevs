@@ -5,11 +5,11 @@
   "categories": [
     {
       "slug": "programming languages",
-      "topics": ["C#", "Python", "C++", "C", "Swift", "bash"]
+      "topics": ["C#", "Python"]
     },
     {
       "slug": "IDEs",
-      "topics": ["Jetbrains Rider", "Jetbrains PyCharm", "Microsoft Visual Studio", "Microsoft Visual Studio Code", "Unity3D"]
+      "topics": ["Jetbrains Rider", "Jetbrains PyCharm", "Unity3D"]
     },
     {
       "slug": "areas",
