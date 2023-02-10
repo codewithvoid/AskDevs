@@ -27,7 +27,7 @@ export async function getServerSideProps(context) {
 export default function Home({ users, categories }) {
   const [categoryUsers, setCategoryUsers] = useState(users);
   const [selectedCategory, setSelectedCategory] = useState('');
-  const capitalize = new Set(["DSA"]);
+  const capitalizedTopics = new Set(["DSA"]);
   function onCategoryButtonClick(e) {
     const {
       dataset: { slug },
@@ -49,7 +49,7 @@ export default function Home({ users, categories }) {
     }
 
     function titleCase(str) {
-      if(capitalize.has(str)){
+      if(capitalizedTopics.has(str)){
         return str;
       }
       var splitStr = str.toLowerCase().split(' ');
