@@ -1,0 +1,22 @@
+{
+  "name": "Dominic Frei",
+  "bio": "Senior Software Engineer && Developer Advocate @MongoDB",
+  "image": "https://pbs.twimg.com/profile_images/1321489002759946240/J2aAULS-_400x400.jpg",
+  "categories": [
+    {
+      "slug": "programming languages",
+      "topics": ["C#", "Python", "C++", "C", "Swift", "bash"]
+    },
+    {
+      "slug": "IDEs",
+      "topics": ["Jetbrains Rider", "Jetbrains PyCharm", "Microsoft Visual Studio", "Microsoft Visual Studio Code", "Unity3D"]
+    },
+    {
+      "slug": "areas",
+      "topics": ["backend development", "game development", "database development"]
+    }
+  ],
+  "contacts": {
+    "twitter": "dominicfrei"
+  }
+}
