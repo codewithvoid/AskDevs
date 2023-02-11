@@ -5,11 +5,11 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["VueJs", "Laravel", "NestJs","react"]
+      "topics": ["VueJs", "NestJs", "react"]
     },
     {
       "slug": "programming",
-      "topics": ["Python", "PHP", "javascript","C"]
+      "topics": ["Python", "javascript", "C"]
     }
   ],
   "contacts": {
