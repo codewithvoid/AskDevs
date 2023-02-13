@@ -9,7 +9,7 @@
     },
     {
       "slug": "software-development",
-      "topics": ["Jetbrains Rider", "Jetbrains PyCharm", "Unity3D"]
+      "topics": ["Rider", "PyCharm", "Unity3D"]
     },
     {
       "slug": "database-development",
@@ -17,6 +17,7 @@
     }
   ],
   "contacts": {
-    "twitter": "dominicfrei"
+    "twitter": "dominicfrei",
+    "discord": "dodoTV42#0383"
   }
 }
