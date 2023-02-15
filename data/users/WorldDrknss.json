@@ -1,0 +1,18 @@
+{
+    "name": "Charles Showalter",
+    "bio": "Cloud Engineer | Software Engineer ",
+    "image": "https://avatars.githubusercontent.com/u/52592050?v=4",
+    "categories": [
+        {
+            "slug": "programming | software-development | web-development",
+            "topics": ["JavaScript", "Python", "Angular", "ReactJS", "NodeJS"]
+          },
+          {
+            "slug": "cloud-engineer",
+            "topics": ["AWS", "GCP", "Azure", "Security"]
+          }
+    ],
+    "contacts": {
+      "twitter": "WorldDrknss"
+    }
+  }
