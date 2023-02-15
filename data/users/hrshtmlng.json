@@ -1,0 +1,27 @@
+{
+  "name": "Harshit Malang",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/101478591?s=96&v=4",
+  "categories": [
+    
+  {
+    "slug": "web-development",
+    "topics": [
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "slug": "programming",
+    "topics": [
+      "JavaScript",
+      "Python"
+    ]
+  }
+
+  ,
+  "contacts": {
+    "twitter": "https://twitter.com/hrshtmlng"
+  }
+}
+]
