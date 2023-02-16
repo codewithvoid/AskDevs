@@ -1,0 +1,18 @@
+{
+  "name": "Gagan Chandra Boga",
+  "bio": "Programmer, Frontend Developer",
+  "image": "https://photos.app.goo.gl/sjvqRTXzaLsUHwdJ6",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Java", "Python", "C++", "C"]
+    }
+    {
+      "slug": "web-development",
+      "topics": ["HTML", "CSS", "JS", "ReactJS", "BootStrap"]
+    }
+  ],
+  "contacts": {
+    "twitter": "@BGaganChandra1"
+  }
+}
