@@ -1,0 +1,14 @@
+{
+  "name": "Babatunde",
+  "bio": "Frontend Web dev",
+  "image": "https://avatars.githubusercontent.com/u/105541302?v=4",
+  "categories": [
+    {
+      "slug": "Web Development",
+      "topics": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "badbatunde"
+  }
+}
