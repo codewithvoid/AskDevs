@@ -1,0 +1,18 @@
+{
+  "name": "Gagan Chandra Boga",
+  "bio": "Programmer",
+  "image": "https://avatars.githubusercontent.com/u/89629223?s=400&u=64f1f311eeefc7e7816c27f0e8ee930a106c9a30&v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Java", "Python", "JS"]
+    }
+    ,{
+      "slug": "web-development",
+      "topics": ["HTML", "CSS", "BootStrap"]
+    }
+  ],
+  "contacts": {
+    "twitter": "BGaganChandra1"
+  }
+}
