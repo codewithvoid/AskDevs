@@ -6,8 +6,8 @@
     {
       "slug": "programming",
       "topics": ["Java", "Python", "JS"]
-    }
-    ,{
+    },
+    {
       "slug": "web-development",
       "topics": ["HTML", "CSS", "BootStrap"]
     }

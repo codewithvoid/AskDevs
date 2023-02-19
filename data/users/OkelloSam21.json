@@ -1,18 +1,19 @@
 {
-	"name": "Okello Samuel",
-	"bio": "Java Developer",
-	"image": "https://avatars.githubusercontent.com/u/115361239?s",
-	"categories": [{
-			"slug": "programming",
-			"topics": ["java", "kotlin"]
-		},
+  "name": "Okello Samuel",
+  "bio": "Java Developer",
+  "image": "https://avatars.githubusercontent.com/u/115361239?s",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["java", "kotlin"]
+    },
 
-		{
-			"slug": "web-development",
-			"topics": ["Html5", "Css", "Javascript"]
-		}
-	],
-	"contacts": {
-		"twitter": "0kello_sam"
-	}
+    {
+      "slug": "web-development",
+      "topics": ["Html5", "Css", "Javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "0kello_sam"
+  }
 }
