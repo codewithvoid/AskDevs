@@ -5,11 +5,11 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["ReactJS","TailwindCSS"]
+      "topics": ["ReactJS", "TailwindCSS"]
     },
     {
       "slug": "programming",
-      "topics": ["Javascript","Java"]
+      "topics": ["Javascript", "Java"]
     }
   ],
   "contacts": {

@@ -5,17 +5,11 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": [
-        "HTML",
-        "CSS"
-      ]
+      "topics": ["HTML", "CSS"]
     },
     {
       "slug": "programming",
-      "topics": [
-        "JavaScript",
-        "Python"
-      ]
+      "topics": ["JavaScript", "Python"]
     }
   ],
   "contacts": {

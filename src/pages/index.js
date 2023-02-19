@@ -27,7 +27,7 @@ export async function getServerSideProps(context) {
 export default function Home({ users, categories }) {
   const [categoryUsers, setCategoryUsers] = useState(users);
   const [selectedCategory, setSelectedCategory] = useState('');
-  const capitalizedTopics = new Set(["DSA"]);
+  const capitalizedTopics = new Set(['DSA']);
   function onCategoryButtonClick(e) {
     const {
       dataset: { slug },
@@ -37,24 +37,21 @@ export default function Home({ users, categories }) {
   }
 
   function getProfileCard(user) {
-
     function findTopicsBySlug(slug, user) {
       for (let i = 0; i < user.categories.length; i++) {
         if (user.categories[i].slug === slug) {
           return user.categories[i].topics;
         }
-
       }
       return [];
     }
 
     function titleCase(str) {
-      if(capitalizedTopics.has(str)){
+      if (capitalizedTopics.has(str)) {
         return str;
       }
       var splitStr = str.toLowerCase().split(' ');
       for (var i = 0; i < splitStr.length; i++) {
-
         splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);
       }
 
@@ -63,42 +60,42 @@ export default function Home({ users, categories }) {
 
     function Pill({ topic, backgroundColor }) {
       return (
-        <p className="text-gray-500 font-semibold text-xs mt-2 text-center rounded-full py-2 px-3 inline-block mr-2" style={{ backgroundColor }}>
+        <p
+          className="text-gray-500 font-semibold text-xs mt-2 text-center rounded-full py-2 px-3 inline-block mr-2"
+          style={{ backgroundColor }}
+        >
           {topic}
         </p>
       );
     }
     function getBackgroundColor(slug) {
-      if(slug=="web-development"){
-        return "#e5e7eb";
-      }
-      else if(slug=="programming"){
-        return "#b8f8a3";
-      }
-      else if(slug=="software-development"){
-        return "#a1e9e3";
-      }
-      else if(slug=="blockchain-development"){
-        return "#deb3ff";
-      }
-      else if(slug=="database-development"){
-        return "#ffef92";
-      }
-      else if(slug=="mobile-development"){
-        return "#b2e6cb";
-      }
-      else if(slug=="data-science"){
-        return "#ffc39c";
-      }
-      else if(slug=="devops"){
-        return "#bbe3ff";
+      if (slug == 'web-development') {
+        return '#e5e7eb';
+      } else if (slug == 'programming') {
+        return '#b8f8a3';
+      } else if (slug == 'software-development') {
+        return '#a1e9e3';
+      } else if (slug == 'blockchain-development') {
+        return '#deb3ff';
+      } else if (slug == 'database-development') {
+        return '#ffef92';
+      } else if (slug == 'mobile-development') {
+        return '#b2e6cb';
+      } else if (slug == 'data-science') {
+        return '#ffc39c';
+      } else if (slug == 'devops') {
+        return '#bbe3ff';
       }
     }
     function PillList({ topics }) {
       return (
         <div className="flex justify-center" style={{ whiteSpace: 'nowrap' }}>
-          {topics.map(topic => (
-            <Pill key={topic} topic={titleCase(topic)} backgroundColor={getBackgroundColor(selectedCategory)}/>
+          {topics.map((topic) => (
+            <Pill
+              key={topic}
+              topic={titleCase(topic)}
+              backgroundColor={getBackgroundColor(selectedCategory)}
+            />
           ))}
         </div>
       );
@@ -107,7 +104,6 @@ export default function Home({ users, categories }) {
     const topics = findTopicsBySlug(selectedCategory, user);
 
     return (
-
       <div className="w-full p-4 md:w-1/2 lg:w-1/4 flex justify-center" key={user.username}>
         <div className="bg-white flex flex-col items-center justify-center p-4 shadow-lg rounded-2xl w-64 hover:shadow-gray-500">
           <img
@@ -120,15 +116,7 @@ export default function Home({ users, categories }) {
             {user.name}
           </p>
           <p className="text-gray-500 font-semibold mt-2">{user.bio}</p>
-          <div >
-            {selectedCategory ?
-              <PillList topics={topics} />
-              :
-              <></>
-
-            }
-
-          </div>
+          <div>{selectedCategory ? <PillList topics={topics} /> : <></>}</div>
 
           <div className="w-full mt-8">
             <TwitterShareButton

@@ -1,22 +1,22 @@
 {
-    "name": "Charles Showalter",
-    "bio": "Software Engineer ",
-    "image": "https://avatars.githubusercontent.com/u/52592050?v=4",
-    "categories": [
-        {
-            "slug": "web-development",
-            "topics": ["Angular", "ReactJS", "NodeJS"]
-          },
-          {
-            "slug": "programming",
-            "topics": ["JavaScript", "Python", "C#"]
-          },
-          {
-            "slug": "cloud-engineer",
-            "topics": ["AWS", "GCP", "Azure"]
-          }
-    ],
-    "contacts": {
-      "twitter": "WorldDrknss"
+  "name": "Charles Showalter",
+  "bio": "Software Engineer ",
+  "image": "https://avatars.githubusercontent.com/u/52592050?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["Angular", "ReactJS", "NodeJS"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["JavaScript", "Python", "C#"]
+    },
+    {
+      "slug": "cloud-engineer",
+      "topics": ["AWS", "GCP", "Azure"]
     }
+  ],
+  "contacts": {
+    "twitter": "WorldDrknss"
   }
+}
