@@ -1,10 +1,10 @@
 {
   "name": "Babatunde",
-  "bio": "Frontend Web dev",
+  "bio": "Frontend Web Developer",
   "image": "https://avatars.githubusercontent.com/u/105541302?v=4",
   "categories": [
     {
-      "slug": "Web Development",
+      "slug": "web-development",
       "topics": ["HTML", "CSS", "Javascript"]
     }
   ],
