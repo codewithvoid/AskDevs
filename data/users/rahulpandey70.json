@@ -17,7 +17,7 @@
     },
     {
       "slug": "devops",
-      "topics": ["Docker", "Kubernetes", "Aws"]
+      "topics": ["Docker", "Kubernetes", "AWS"]
     }
   ],
   "contacts": {
