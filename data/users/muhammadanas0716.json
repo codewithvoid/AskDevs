@@ -1,14 +1,17 @@
 {
   "name": "Muhammad Anas",
-  "bio": "e.g Data Scientist | Machine Learning | MLOps | Algorithmic Trading",
+  "bio": "Data Scientist",
   "image": "https://avatars.githubusercontent.com/u/81016607?v=4",
   "categories": [
     {
-      "slug": "programming | python | machine-learning | data-science",
-      "topics": []
+      "slug": "data-science",
+      "topics": [
+        "machine-learning",
+        "mlops"
+      ]
     }
   ],
   "contacts": {
-    "twitter": "<MuhammadAnas707>"
+    "twitter": "MuhammadAnas707"
   }
 }
