@@ -1,18 +1,19 @@
 {
     "name": "Valentin",
-    "bio": "Web developer",
+    "bio": "Full Stack Developer",
     "image": "https://avatars.githubusercontent.com/u/39961893?v=4",
     "categories": [
-        {
-          "slug": "web-development",
-          "topics": ["Laravel", "Django"]
-        },
-        {
-          "slug": "programming",
-          "topics": ["Php", "Java", "Python"]
-        }
-      ],
+      {
+        "slug": "web-development",
+        "topics": ["Django", "API"]
+      },
+      {
+        "slug": "programming",
+        "topics": ["python", "javascript"]
+      }
+    ],
     "contacts": {
-        "twitter": "ZarateCarreno"
+      "twitter": "wu_25iytt"
     }
-}
+  }
+  
