@@ -4,7 +4,7 @@
     "image": "https://avatars.githubusercontent.com/u/39961893?v=4",
     "categories": [{
         "slug": "web-development",
-        "topics": ["PHP", "Python", "html","Laravel"]
+        "topics": ["PHP", "Python","Laravel"]
     }],
     "contacts": {
         "twitter": "ZarateCarreno"
