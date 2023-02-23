@@ -1,0 +1,12 @@
+{
+    "name": "José Valentín Zárate Carreño",
+    "bio": "e.g PHP Developer | Python backend developer |  Backend developer | Web Dev | Junior Dev ",
+    "image": "https://avatars.githubusercontent.com/u/39961893?v=4",
+    "categories": [{
+        "slug": "programming | web-development",
+        "topics": ["PHP", "Python", "html", "web-development", "backend", "backend-development"]
+    }],
+    "contacts": {
+        "twitter": "ZarateCarreno"
+    }
+}
