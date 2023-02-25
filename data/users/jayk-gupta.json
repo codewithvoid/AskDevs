@@ -1,0 +1,15 @@
+{
+  "name": "Jay Kumar Gupta",
+  "bio": " Web Dev ",
+  "image": "https://avatars.githubusercontent.com/u/100681165?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["CSS","javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "jayk_gupta"
+  }
+  
+}
