@@ -6,6 +6,8 @@ Tweet your technical questions to tech twitter volunteers.
 
 Check out the website: https://ask-devs.vercel.app/
 
+Join our discord server: https://discord.com/invite/VgFMfMJn
+
 https://user-images.githubusercontent.com/70970530/206005591-1eb473b7-3cfc-4d9a-ae1d-0acb492d2d07.mp4
 
 ## 🔍 Add yourself as volunteer
