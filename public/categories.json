@@ -1,22 +1,42 @@
 [
   {
     "name": "Programming",
-    "slug": "programming"
+    "slug": "programming",
+    "color": "#b8f8a3"
   },
   {
     "name": "Software Development",
-    "slug": "software-development"
+    "slug": "software-development",
+    "color": "#a1e9e3"
   },
   {
     "name": "Web Development",
-    "slug": "web-development"
+    "slug": "web-development",
+    "color": "#e5e7eb"
   },
   {
     "name": "Mobile Development",
-    "slug": "mobile-development"
+    "slug": "mobile-development",
+    "color": "#b2e6cb"
   },
   {
     "name": "Data Science",
-    "slug": "data-science"
+    "slug": "data-science",
+    "color": "#ffc39c"
+  },
+  {
+    "name": "Devops",
+    "slug": "devops",
+    "color": "#bbe3ff"
+  },
+  {
+    "name": "Database Development",
+    "slug": "database-development",
+    "color": "#ffef92"
+  },
+  {
+    "name": "Blockchain Development",
+    "slug": "blockchain-development",
+    "color": "#deb3ff"
   }
 ]

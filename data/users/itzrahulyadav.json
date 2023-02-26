@@ -1,0 +1,18 @@
+{
+  "name": "Rahul Yadav",
+  "bio": "Web developer",
+  "image": "https://avatars.githubusercontent.com/u/65400893?s=96&v=4",
+  "categories": [
+    {
+      "slug": "devops",
+      "topics": ["AWS", "Docker"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["React", "Nodejs", "Javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Itzrahulyadav_"
+  }
+}

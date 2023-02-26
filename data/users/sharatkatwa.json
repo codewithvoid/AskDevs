@@ -1,0 +1,23 @@
+{
+  "name": "Sharat Katwa",
+  "bio": "Backend Developer",
+  "image": "https://avatars.githubusercontent.com/u/60929610?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["NodeJS", "ExpressJS"]
+    },
+
+    {
+      "slug": "programming",
+      "topics": ["C", "C++", "Javascript"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["mongoDB"]
+    }
+  ],
+  "contacts": {
+    "twitter": "JkSharat"
+  }
+}

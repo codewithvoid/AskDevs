@@ -1,0 +1,14 @@
+{
+  "name": "Noura EL ALLAM",
+  "bio": "Programmer",
+  "image": "https://avatars.githubusercontent.com/u/26191219?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Python", "C", "DSA"]
+    }
+  ],
+  "contacts": {
+    "twitter": "nouraellm"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Aryan Deshpande",
+  "bio": "Backend Engineer",
+  "image": "https://pbs.twimg.com/profile_images/1563849487029780483/IlkYVtRY_400x400.jpg",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["NodeJS", "Flask", "Javascript"]
+    },
+    {
+      "slug": "data-science",
+      "topics": ["Python", "Pytorch", "Numpy"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Python", "Java", "Golang"]
+    },
+    {
+      "slug": "devops",
+      "topics": ["Docker", "Kubernetes", "Azure"]
+    }
+  ],
+  "contacts": {
+    "twitter": "aryanscript"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Aayush Deshmukh",
+  "bio": "Full stack web3 developer",
+  "image": "https://avatars.githubusercontent.com/u/63910239?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["JavaScript", "Solidity"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["MERN"]
+    },
+    {
+      "slug": "blockchain-development",
+      "topics": ["Etheruem"]
+    }
+  ],
+  "contacts": {
+    "twitter": "aayushdeshmukh"
+  }
+}

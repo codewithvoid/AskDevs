@@ -1,0 +1,14 @@
+{
+  "name": "Kalyan Vurugonda",
+  "bio": "DevOps",
+  "image": "https://avatars.githubusercontent.com/kalyan-vurugonda",
+  "categories": [
+    {
+      "slug": "devops",
+      "topics": ["docker", "kubernetes"]
+    }
+  ],
+  "contacts": {
+    "twitter": "kalyanstwt"
+  }
+}

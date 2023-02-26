@@ -1,0 +1,17 @@
+{
+  "name": "Muhammad Anas",
+  "bio": "Data Scientist",
+  "image": "https://avatars.githubusercontent.com/u/81016607?v=4",
+  "categories": [
+    {
+      "slug": "data-science",
+      "topics": [
+        "machine-learning",
+        "mlops"
+      ]
+    }
+  ],
+  "contacts": {
+    "twitter": "MuhammadAnas707"
+  }
+}

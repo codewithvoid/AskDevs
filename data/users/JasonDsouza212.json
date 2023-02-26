@@ -1,0 +1,22 @@
+{
+  "name": "Jason Dsouza",
+  "bio": "DevOps/Devrel",
+  "image": "https://avatars.githubusercontent.com/u/74404894?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["MERN Stack"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Java", "Python", "JavaScript"]
+    },
+    {
+      "slug": "devops",
+      "topics": ["Docker", "K8s", "AWS"]
+    }
+  ],
+  "contacts": {
+    "twitter": "_Jason_Dsouza"
+  }
+}

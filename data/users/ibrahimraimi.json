@@ -1,0 +1,14 @@
+{
+  "name": "Ibrahim Raimi",
+  "bio": "Creative Frontend Developer",
+  "image": "https://i.ibb.co/cYWm7py/ibrahimraimi-clipdrop-relight-1.jpg",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": []
+    }
+  ],
+  "contacts": {
+    "twitter": "ibrahimraimi_"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ChoZeur",
+  "bio": "Software Developer",
+  "image": "https://avatars.githubusercontent.com/u/79296277",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["C", "C++"]
+    }
+  ],
+  "contacts": {
+    "twitter": "chozeur"
+  }
+}

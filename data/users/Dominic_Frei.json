@@ -1,0 +1,23 @@
+{
+  "name": "Dominic Frei",
+  "bio": "Senior Software Engineer @MongoDB",
+  "image": "https://avatars.githubusercontent.com/u/1942012?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["C#", "Python"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["Rider", "PyCharm", "Unity3D"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MongoDB"]
+    }
+  ],
+  "contacts": {
+    "twitter": "dominicfrei",
+    "discord": "dodoTV42#0383"
+  }
+}

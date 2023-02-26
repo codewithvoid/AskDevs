@@ -1,0 +1,14 @@
+{
+  "name": "Samyabrata Maji",
+  "bio": "Frontend Engineer",
+  "image": "https://avatars.githubusercontent.com/u/116789799?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["javascript", "java", "python"]
+    }
+  ],
+  "contacts": {
+    "twitter": "sammaji15"
+  }
+}
