@@ -1,11 +1,11 @@
 {
   "name": "Jay Kumar Gupta",
-  "bio": "Frontend developer ",
+  "bio": "Frontend Web Developer ",
   "image": "https://avatars.githubusercontent.com/u/100681165?s=400&u=3b57ae3129b51609a84806dcc1431aea2f93b074&v=4",
   "categories": [
     {
-      "slug": "web-development",
-      "topics": ["Javascript","Data structures","Algorithms"]
+      "slug": "programming",
+      "topics": ["Javascript"]
     }
   ],
   "contacts": {
