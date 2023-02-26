@@ -10,6 +10,10 @@ Join our discord server: https://discord.com/invite/VgFMfMJn
 
 https://user-images.githubusercontent.com/70970530/206005591-1eb473b7-3cfc-4d9a-ae1d-0acb492d2d07.mp4
 
+## 👋 Join Us On Discord
+
+<a href="[discord.gg/DFwsFKfgEB](https://discord.gg/DFwsFKfgEB)"><img src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="DiscordLogo" width="100" height="100"></a>
+
 ## 🔍 Add yourself as volunteer
 
 STEPS :
