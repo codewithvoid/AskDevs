@@ -9,7 +9,11 @@
       },
       {
         "slug": "web-development",
-        "topics": ["ReactJS", "NextJS", "Django", "Flask"]
+        "topics": ["ReactJS", "NextJS", "NodeJS", "Django", "Flask"]
+      },
+      {
+        "slug": "database-development",
+        "topics": ["MongoDB", "Postgres"]
       }
     ],
     "contacts": {
