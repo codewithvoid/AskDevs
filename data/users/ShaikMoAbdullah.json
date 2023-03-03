@@ -1,0 +1,14 @@
+{
+  "name": "<Shaik Mohammad Abdullah>",
+  "bio": "JavaScript Developer | Web Dev | React Dev",
+  "image": "https://drive.google.com/file/d/1r4aHtrJWeIKD4HuKArl4MHQFPjXbbwHR/view?usp=sharing",
+  "categories": [
+    {
+      "slug": "programming | software-development | web-development",
+      "topics": ["JavaScript", "React", "HTML and CSS"]
+    }
+  ],
+  "contacts": {
+    "twitter": "ShaikMoAbdullah>"
+  }
+}
