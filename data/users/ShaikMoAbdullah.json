@@ -6,9 +6,17 @@
     {
       "slug": "programming | software-development | web-development",
       "topics": ["JavaScript", "React", "HTML and CSS"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["JavaScript", "React", "HTML and CSS"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["JavaScript", "React", "HTML and CSS"]
     }
   ],
   "contacts": {
-    "twitter": "ShaikMoAbdullah>"
+    "twitter": "ShaikMoAbdullah"
   }
 }
