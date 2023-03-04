@@ -12,9 +12,9 @@
       "topics": ["NodeJs", "Elasticsearch", "Redis"]
     },
     {
-      "slug": "software-development",
-      "topics": ["AWS", "DevOps", "Docker"]
-    }
+      "slug": "devops",
+      "topics": ["AWS", "Docker"]
+    },
   ],
   "contacts": {
     "twitter": "Dhanush_Nehru"
