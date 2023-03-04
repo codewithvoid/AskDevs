@@ -1,0 +1,22 @@
+{
+  "name": "Dhanush Nehru",
+  "bio": "Full Stack Engineer",
+  "image": "https://avatars.githubusercontent.com/u/22955675?&v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Javascript", "Python"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["NodeJs", "Elasticsearch", "Redis"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["AWS", "DevOps"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Dhanush_Nehru"
+  }
+}
