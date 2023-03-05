@@ -9,11 +9,15 @@
     },
     {
       "slug": "web-development",
-      "topics": ["NodeJs", "Elasticsearch", "Redis"]
+      "topics": ["NodeJs", "Elasticsearch"]
     },
     {
       "slug": "devops",
       "topics": ["AWS", "Docker"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["Redis",'MongoDB']
     },
   ],
   "contacts": {
