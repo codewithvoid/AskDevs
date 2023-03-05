@@ -8,12 +8,8 @@
       "topics": ["JavaScript"]
     },
     {
-      "slug": "software-development",
-      "topics": ["JavaScript", "React", "HTML and CSS"]
-    },
-    {
       "slug": "web-development",
-      "topics": ["JavaScript", "React", "HTML and CSS"]
+      "topics": ["React", "HTML and CSS"]
     }
   ],
   "contacts": {
