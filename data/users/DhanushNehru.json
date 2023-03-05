@@ -18,7 +18,7 @@
     {
       "slug": "database-development",
       "topics": ["Redis",'MongoDB']
-    },
+    }
   ],
   "contacts": {
     "twitter": "Dhanush_Nehru"
