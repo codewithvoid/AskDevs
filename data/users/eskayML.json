@@ -1,0 +1,27 @@
+{
+
+  "name": "eskayML",
+
+  "bio": "Python Developer | Data Scientist ",
+
+  "image": "",
+
+  "categories": [
+
+    {
+
+      "slug": "programming | machine-learning | data-science",
+
+      "topics": ["NLP", "Generative AI"]
+
+    }
+
+  ],
+
+  "contacts": {
+
+    "twitter": "eskayML"
+
+  }
+
+}
