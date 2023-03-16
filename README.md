@@ -4,7 +4,7 @@ Tweet your technical questions to tech twitter volunteers.
 
 ## 👋 Join Us On Discord
 
-<a href="[discord.gg/DFwsFKfgEB](https://discord.gg/DFwsFKfgEB)"><img src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="DiscordLogo" width="100" height="100"></a>
+<a href="http://discord.gg/DFwsFKfgEB"><img src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="DiscordLogo" width="100" height="100"></a>
 
 ## 👨‍💻 Demo
 
