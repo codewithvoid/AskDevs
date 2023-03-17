@@ -5,10 +5,7 @@
   "categories": [
     {
       "slug": "data-science",
-      "topics": [
-        "machine-learning",
-        "mlops"
-      ]
+      "topics": ["machine-learning", "mlops"]
     }
   ],
   "contacts": {
