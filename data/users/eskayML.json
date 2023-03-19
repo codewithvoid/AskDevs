@@ -1,0 +1,14 @@
+{
+  "name": "eskayML",
+  "bio": "Data Scientist",
+  "image": "https://avatars.githubusercontent.com/u/71832907",
+  "categories": [
+    {
+      "slug": "data-science",
+      "topics": ["NLP", "Generative AI"]
+    }
+  ],
+  "contacts": {
+    "twitter": "eskayML"
+  }
+}

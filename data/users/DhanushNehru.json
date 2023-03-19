@@ -17,7 +17,7 @@
     },
     {
       "slug": "database-development",
-      "topics": ["Redis",'MongoDB']
+      "topics": ["Redis", "MongoDB"]
     }
   ],
   "contacts": {
