@@ -5,14 +5,14 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["PHP","JS","HTML","CSS", "React","Symfony","Laravel","Vue"]
+      "topics": ["React","Symfony","Laravel"]
     },
     {
       "slug": "programming",
-      "topics": ["Python"]
+      "topics": ["Python","PHP","JS"]
     },
     {
-      "slug": "database",
+      "slug": "database-development",
       "topics": ["MySql"]
     }
   ],
