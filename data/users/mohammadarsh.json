@@ -4,8 +4,12 @@
   "image": "https://avatars.githubusercontent.com/u/69970708?v=4",
   "categories": [
     {
-      "slug": "Web-development",
-      "topics": ["Linux","Ethical Hacking","HTML","CSS","Bootstrap","Javascript"]
+      "slug": "Ehtical Hacking",
+      "topics": ["Linux","SQL","Networking"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["HTML","CSS","Bootstrap","Javascript"]
     }
   ],
   "contacts": {
