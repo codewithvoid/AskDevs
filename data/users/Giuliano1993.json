@@ -1,0 +1,22 @@
+{
+  "name": "Giuliano Gostinfini",
+  "bio": "FullStack Web Dev",
+  "image": "https://avatars.githubusercontent.com/u/12759050?s=40&v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["React","Symfony","Laravel"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Python","PHP","JS"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MySql"]
+    }
+  ],
+  "contacts": {
+    "twitter": "gosty93"
+  }
+}
