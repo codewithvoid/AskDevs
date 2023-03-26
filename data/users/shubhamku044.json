@@ -6,9 +6,16 @@
     {
       "slug": "web-development",
       "topics": [
-        "react js",
-        "typescript",
-        "tailwind css"
+        "ReactJs",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "slug": "programming",
+      "topics": [
+        "Python",
+        "Javascript",
+        "Typescript"
       ]
     }
   ],
