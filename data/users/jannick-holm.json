@@ -5,11 +5,15 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["HTML", "CSS/SASS", "Typescript", "React", "Remix.run", "Vue"]
+      "topics": ["HTML", "CSS/SASS", "React", "Remix.run", "Vue.js"]
     },
     {
-      "slug": "backend-development",
-      "topics": ["Node.js", "PHP", "Laravel", "Express", "MYSQL", "POSTGRESQL"]
+      "slug": "programming",
+      "topics": ["Node.js", "PHP", "Laravel", "Express", "Typescript"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MYSQL", "POSTGRESQL"]
     }
   ],
   "contacts": {
