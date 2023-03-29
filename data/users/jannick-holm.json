@@ -5,11 +5,11 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["HTML", "CSS/SASS", "React", "Remix.run", "Vue.js"]
+      "topics": ["React", "Vue.js", "Express"]
     },
     {
       "slug": "programming",
-      "topics": ["Node.js", "PHP", "Laravel", "Express", "Typescript"]
+      "topics": ["Node.js", "PHP", "Typescript"]
     },
     {
       "slug": "database-development",
