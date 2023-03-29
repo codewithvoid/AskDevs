@@ -1,0 +1,22 @@
+{
+  "name": "Jannick Holm",
+  "bio": "Software Engineer",
+  "image": "https://avatars.githubusercontent.com/u/98817290?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["React", "Vue.js", "Express"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Node.js", "PHP", "Typescript"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MYSQL", "POSTGRESQL"]
+    }
+  ],
+  "contacts": {
+    "twitter": "jannickholm4"
+  }
+}
