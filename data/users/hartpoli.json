@@ -1,11 +1,15 @@
 {
   "name": "hartpoli",
-  "bio": "Web  ",
+  "bio": "Backend Developer ",
   "image": "https://avatars.githubusercontent.com/u/65838275?s=400&v=4",
   "categories": [
     {
       "slug": "NodeJs",
-      "topics": []
+      "topics": ["Express"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["JavaScript", "Python", "C+"]
     }
   ],
   "contacts": {
