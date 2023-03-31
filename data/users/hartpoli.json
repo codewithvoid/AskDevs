@@ -1,14 +1,14 @@
 {
   "name": "hartpoli",
-  "bio": "ML | Web | Android  ",
+  "bio": "Web  ",
   "image": "https://avatars.githubusercontent.com/u/65838275?s=400&v=4",
   "categories": [
     {
-      "slug": "programming | software-development | web-development | mobile-development | machine-learning",
+      "slug": "NodeJs",
       "topics": []
     }
   ],
   "contacts": {
-    "twitter": ""
+    "twitter": "https://twitter.com/yhartpx123"
   }
 }
