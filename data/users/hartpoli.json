@@ -4,15 +4,15 @@
   "image": "https://avatars.githubusercontent.com/u/65838275?s=400&v=4",
   "categories": [
     {
-      "slug": "NodeJs",
-      "topics": ["Express"]
+      "slug": "Web Development",
+      "topics": ["NodeJs", "Express"]
     },
     {
       "slug": "programming",
-      "topics": ["JavaScript", "Python", "C+"]
+      "topics": ["JavaScript", "Python", "C++"]
     }
   ],
   "contacts": {
-    "twitter": "https://twitter.com/yhartpx123"
+    "twitter": "yhartpx123"
   }
 }
