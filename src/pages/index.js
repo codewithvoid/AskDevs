@@ -32,8 +32,13 @@ export default function Home({ users, categories }) {
     const {
       dataset: { slug },
     } = e.target;
-    setSelectedCategory(slug);
-    setCategoryUsers(users.filter((u) => u.categories.flatMap((c) => c.slug).indexOf(slug) >= 0));
+    if (selectedCategory === slug) {
+      setSelectedCategory('');
+      setCategoryUsers(users);
+    } else {
+      setSelectedCategory(slug);
+      setCategoryUsers(users.filter((u) => u.categories.flatMap((c) => c.slug).indexOf(slug) >= 0));
+    }
   }
 
   function getProfileCard(user) {
@@ -153,25 +158,20 @@ export default function Home({ users, categories }) {
           <h1 className="my-4 text-5xl font-bold leading-tight">Got a technical question?</h1>
           <p className="mb-8 text-3xl leading-normal">Ask our tech twitter volunteers!</p>
           <div className="flex flex-wrap gap-2 max-sm:flex-col max-sm:items-start">
-            {categories.map((c) =>
-              c.slug === selectedCategory ? (
-                <button
-                  className="rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold bg-black text-white"
-                  key={`${c.slug}`}
-                >
-                  {c.name}
-                </button>
-              ) : (
-                <button
-                  className="rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold text-black hover:bg-black hover:text-white"
-                  key={`${c.slug}`}
-                  data-slug={`${c.slug}`}
-                  onClick={onCategoryButtonClick}
-                >
-                  {c.name}
-                </button>
-              )
-            )}
+            {categories.map((c) => (
+              <button
+                className={`rounded-full border-2 border-solid border-black px-5 py-1 text-center font-bold ${
+                  c.slug === selectedCategory
+                    ? 'bg-black text-white'
+                    : 'text-black hover:bg-black hover:text-white'
+                }`}
+                key={`${c.slug}`}
+                data-slug={`${c.slug}`}
+                onClick={onCategoryButtonClick}
+              >
+                {c.name}
+              </button>
+            ))}
           </div>
         </section>
 
