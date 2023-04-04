@@ -1,10 +1,10 @@
 {
   "name": "hartpoli",
-  "bio": "Backend Developer ",
+  "bio": "Backend Developer",
   "image": "https://avatars.githubusercontent.com/u/65838275?s=400&v=4",
   "categories": [
     {
-      "slug": "Web Development",
+      "slug": "web-development",
       "topics": ["NodeJs", "Express"]
     },
     {
