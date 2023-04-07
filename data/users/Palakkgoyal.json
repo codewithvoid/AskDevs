@@ -1,0 +1,14 @@
+{
+  "name": "Palak Goyal",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/116902573?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["CSS", "JavaScript", "React", "Tailwind"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Palaktwts"
+  }
+}
