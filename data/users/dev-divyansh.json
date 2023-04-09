@@ -1,0 +1,22 @@
+{
+  "name": "Divyansh Pratap Singh",
+  "bio": "Native Android Developer | Postman Student Leader",
+  "image": "https://en.everybodywiki.com/images/f/f9/IM_pratap_divyansh.jpg",
+  "categories": [
+    {
+      "slug": "Android-Development",
+      "topics": ["Koltin","Java","Android"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Python" , "Java"  , "Kotlin" , "Html" , "CSS" , "Go-lang" , "Ruby" ]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MySql " , "nginx" ]
+    }
+  ],
+  "contacts": {
+    "twitter": "dev_pratap3250"
+  }
+}
