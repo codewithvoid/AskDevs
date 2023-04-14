@@ -9,11 +9,15 @@
     },
     {
       "slug": "programming",
-      "topics": ["Python" , "Java"  , "Kotlin" , "Html" , "CSS" , "Go-lang" , "Ruby" ]
+      "topics": ["Python" , "Java"  , "Kotlin" , "Go-lang" , "Ruby" ]
     },
     {
       "slug": "database-development",
-      "topics": ["MySql " , "nginx" ]
+      "topics": ["MySql"]
+    } ,
+    {
+      "slug": "Web-development",
+      "topics": ["HTML" , "CSS"]
     }
   ],
   "contacts": {
