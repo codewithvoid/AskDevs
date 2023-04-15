@@ -4,12 +4,12 @@
   "image": "https://en.everybodywiki.com/images/f/f9/IM_pratap_divyansh.jpg",
   "categories": [
     {
-      "slug": "Mobile-Development",
-      "topics": ["Koltin","Java","Android"]
+      "slug": "mobile-development",
+      "topics": ["Android"]
     },
     {
       "slug": "programming",
-      "topics": ["Python" , "Java"  , "Kotlin" , "Go-lang" , "Ruby" ]
+      "topics": ["Python" , "Java"  , "Kotlin" ]
     },
     {
       "slug": "database-development",
