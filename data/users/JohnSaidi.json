@@ -1,10 +1,10 @@
 {
-  "name": "<John SD>",
+  "name": "John SD",
   "bio": "Full Stack Developer",
   "image": "https://avatars.githubusercontent.com/u/60397319?v=4",
   "categories": [
     {
-      "slug": "programming | software-development",
+      "slug": "programming",
       "topics": ["Python"]
     }
   ],
