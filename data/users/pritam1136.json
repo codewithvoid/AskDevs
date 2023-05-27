@@ -1,0 +1,14 @@
+{
+    "name": "Pritam Roy",
+    "bio": "C developer | Full-stack development ",
+    "image": "https://avatars.githubusercontent.com/u/126561455?s=400&u=dceb8af41ffd4061a38b03eb8d38c4f2e837d8ee&v=4",
+    "categories": [
+      {
+        "slug": "web developer",
+        "topics": ["ReactJS", "NodeJS","ExpressJS","TailwindCSS","git & github","Firebase"]
+      }
+    ],
+    "contacts": {
+      "twitter": "Pritam_1296"
+    }
+  }
