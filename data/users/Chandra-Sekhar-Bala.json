@@ -1,0 +1,22 @@
+{
+  "name": "Chandra Sekhar Bal",
+  "bio": "Android Developer",
+  "image": "https://avatars.githubusercontent.com/u/57448981",
+  "categories": [
+    {
+      "slug": "mobile-development",
+      "topics": ["Android"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Python" , "Java"  , "Kotlin" ]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MySql"]
+    }
+  ],
+  "contacts": {
+    "twitter": "chandrastwt"
+  }
+}
