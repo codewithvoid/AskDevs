@@ -1,0 +1,26 @@
+{
+  "name": "Sumit Kumar Das",
+  "bio": "Full Stack Engineer | MERN",
+  "image": "https://avatars.githubusercontent.com/u/73597446",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["Javascript", "C++"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["ReactJs", "NodeJs"]
+    },
+    {
+      "slug": "devops",
+      "topics": ["AWS"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["PostgreSQL", "MongoDB"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Mr_SumitKrDas"
+  }
+}
