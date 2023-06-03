@@ -1,0 +1,22 @@
+{
+  "name": "Sumit Kumar Das",
+  "bio": "Software Developer | MERN",
+  "image": "https://avatars.githubusercontent.com/u/73597446?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["ReactJS", "NodeJS", "styled-components"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["JavaScript", "C++"]
+    },
+    {
+      "slug": "cloud-engineer",
+      "topics": ["AWS", "Azure"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Mr_SumitKrDas"
+  }
+}
