@@ -1,0 +1,14 @@
+{
+    "name": "Mrinal Bagai",
+    "bio": "Web Developer | ReactJs",
+    "image": "https://avatars.githubusercontent.com/u/81608934?s=96&v=4",
+    "categories": [
+      {
+        "slug": "web-development",
+        "topics": ["CSS, Javascript, React"]
+      }
+    ],
+    "contacts": {
+      "twitter": "idkmanjustsayin"
+    }
+  }
