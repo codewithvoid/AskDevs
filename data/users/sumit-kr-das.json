@@ -1,0 +1,22 @@
+{
+  "name": "Sumit Kumar Das",
+  "bio": "Software Engineer",
+  "image": "https://avatars.githubusercontent.com/u/73597446?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["JavaScript", "C++"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["ReactJs", "NodeJs", "ExpressJs"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["Mongodb", "PostgreSQL"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Mr_SumitKrDas"
+  }
+}
