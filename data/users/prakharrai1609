@@ -1,0 +1,18 @@
+{
+  "name": "Prakhar Rai",
+  "bio": "SWE",
+  "image": "https://media.licdn.com/dms/image/D4D03AQH3nHT025rtWg/profile-displayphoto-shrink_400_400/0/1671091779353?e=1676505600&v=beta&t=iYhs7ybjojQC54tzE_bViSs1n6pVc45KTmVQzWBC18Y",
+  "categories": [
+    {
+      "slug": "Problem solving",
+      "topics": ["C++", "Data structures", "Algorithms"]
+    },
+    {
+      "slug": "Development",
+      "topics": ["Python", "Django", "JS/TS", "Node.js", "Express.js"]
+    }
+  ],
+  "contacts": {
+    "twitter": "prakharrai1609"
+  }
+}
