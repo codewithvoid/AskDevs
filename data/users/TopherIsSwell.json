@@ -1,0 +1,22 @@
+{
+  "name": "Christopher Morrow",
+  "bio": "Backend Dev / Sysadmin",
+  "image": "https://twitter.com/TopherIsSwell/photo",
+  "categories": [
+    {
+      "slug": "tools",
+      "topics": ["vim", "docker", "helm" ]
+    },
+    {
+      "slug": "platforms",
+      "topics": ["aws", "kubernetes", "rhel", "linux"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["go", "c", "perl", "bash"]
+    }
+  ],
+  "contacts": {
+    "twitter": "TopherIsSwell"
+  }
+}
