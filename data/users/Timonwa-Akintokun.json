@@ -1,11 +1,11 @@
 {
   "name": "Timonwa Akintokun",
   "bio": "Frontend Developer",
-  "image": "<IMAGE URL>",
+  "image": "https://pbs.twimg.com/profile_images/1614615615800492032/KUoyGnIv_400x400.jpg",
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["ReactJs" , "JavaScript"]
+      "topics": ["ReactJs", "CSS", "JavaScript"]
     },
   ],
   "contacts": {
