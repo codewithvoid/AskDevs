@@ -1,0 +1,19 @@
+{
+  "name": "Krishna Sarathi Ghosh",
+  "bio": "Python Web Developer",
+  "image": "https://pbs.twimg.com/profile_images/1618945031859220482/hdqdQsCL_400x400.jpg",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["Bootstrap", "Flask"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Python", "JavaScript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "CodesKae",
+    "discord": "Krishna Sarathi Ghosh#3584"
+  }
+}

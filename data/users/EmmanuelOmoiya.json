@@ -1,0 +1,22 @@
+{
+  "name": "Emmanuel Omoiya",
+  "bio": "Software Engineer",
+  "image": "https://avatars.githubusercontent.com/u/79797604?s=96&v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["JavaScript", "C++"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["Nextjs", "Nodejs", "Expressjs"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["Mongodb"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Emmanuel_Omoiya"
+  }
+}

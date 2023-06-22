@@ -1,0 +1,18 @@
+{
+  "name": "Salman Sajid",
+  "bio": "Frontend Developer",
+  "image": "https://avatars.githubusercontent.com/u/118899215?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["JavaScript"]
+    },
+    {
+      "slug": "web-development",
+      "topics": ["ReactJS"]
+    }
+  ],
+  "contacts": {
+    "twitter": "IAmMoon11"
+  }
+}

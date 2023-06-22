@@ -1,0 +1,14 @@
+{
+  "name": "Manikanta Adhikari",
+  "bio": "Web Developer",
+  "image": "https://avatars.githubusercontent.com/u/71308100?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "maniadhikarii"
+  }
+}

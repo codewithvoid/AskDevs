@@ -1,0 +1,26 @@
+{
+  "name": "Harsh Thakkar",
+  "bio": "Web Developer",
+  "image": "https://avatars.githubusercontent.com/u/65072835?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["JS", "ReactJs"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["C", "C++", "Java"]
+    },
+    {
+      "slug": "mobile-development",
+      "topics": ["Android"]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MySQL"]
+    }
+  ],
+  "contacts": {
+    "twitter": "HarshThakkar971"
+  }
+}

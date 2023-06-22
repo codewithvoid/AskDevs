@@ -1,0 +1,26 @@
+{
+  "name": "Divyansh Pratap Singh",
+  "bio": "Native Android Developer",
+  "image": "https://en.everybodywiki.com/images/f/f9/IM_pratap_divyansh.jpg",
+  "categories": [
+    {
+      "slug": "mobile-development",
+      "topics": ["Android"]
+    },
+    {
+      "slug": "programming",
+      "topics": ["Python" , "Java"  , "Kotlin" ]
+    },
+    {
+      "slug": "database-development",
+      "topics": ["MySql"]
+    } ,
+    {
+      "slug": "Web-development",
+      "topics": ["HTML" , "CSS"]
+    }
+  ],
+  "contacts": {
+    "twitter": "dev_pratap3250"
+  }
+}
