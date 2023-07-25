@@ -5,8 +5,12 @@
   "categories": [
     {
       "slug": "web-development",
-      "topics": ["ReactJs", "CSS", "JavaScript"]
-    },
+      "topics": [
+        "ReactJs",
+        "CSS",
+        "JavaScript"
+      ]
+    }
   ],
   "contacts": {
     "twitter": "timonwa_"
