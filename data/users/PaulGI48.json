@@ -1,0 +1,20 @@
+{
+    "name": "<Giovanni Paul-Sodipo>",
+    "bio": "Crazy Ridz , ALX Software Engineering Certified  , Audio Engineering .",
+    "image": "<https://twitter.com/whoisvtrilla_/photo>",
+    "categories": [
+          {
+      "slug": "software-development",
+      "topics": ["MERN,Next.JS"]
+    },
+
+    {
+      "slug": "blockchain-development",
+      "topics": ["go", "javascript" , "solidity"]
+    }
+    ],
+
+    "contacts": {
+      "twitter": "<whoisvtrilla_>"
+    }
+  }
