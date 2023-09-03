@@ -1,0 +1,22 @@
+{
+  "name": "Kartik Puri",
+  "bio": "Tech Lead | Python Dev | Product Hunt Top 10 | Javascript ",
+  "image": "https://avatars.githubusercontent.com/kartikpuri95",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["python","javascript","taiwind"]
+    },
+     {
+      "slug": "mobile-development",
+      "topics": ["javascript","quasar"]
+    },
+    {
+      "slug": "software-development",
+      "topics": ["api-development"]
+    }
+  ],
+  "contacts": {
+    "twitter": "https://twitter.com/chopcoding"
+  }
+}
