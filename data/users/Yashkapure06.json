@@ -1,0 +1,21 @@
+{
+  "name": "Yash Kapure",
+  "bio": "MERN Stack Dev | React Dev ",
+  "image": "https://avatars.githubusercontent.com/u/61585443?v=4",
+  "categories": [
+    {
+      "slug": "programming",
+      "topics": ["JavaScript","Python", "Java"]
+    },
+    {
+      "slug": "full-stack-development",
+      "topics": [ "Reactjs", "NextJs", "ExpressJs", "NodeJs", "MongoDB"]
+    },
+    {
+      "slug": "mobile-development",
+      "topics": ["React-Native"]
+  ],
+  "contacts": {
+    "twitter": "KapureYash"
+  }
+}
