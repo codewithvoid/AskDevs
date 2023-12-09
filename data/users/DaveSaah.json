@@ -1,0 +1,33 @@
+{
+  "name": "David Saah",
+  "bio": "Learning how to build backend & infrastructure software",
+  "image": "https://avatars.githubusercontent.com/u/53381103?v=4",
+  "categories": [
+    {
+      "slug": "Languages",
+      "topics": ["Golang", "SQL"]
+    },
+    {
+      "slug": "Tools",
+      "topics": ["Git", "Linux", "Docker", "Neovim", "Github", "Google Cloud Console", "Koyeb"]
+    },
+    {
+      "slug": "Explored",
+      "topics": [
+        "Computer Networks",
+        "Java",
+        "Julia",
+        "Octave",
+        "Python",
+        "HTML/CSS",
+        "Javascript",
+        "Firebase",
+        "Vue Js",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+  "contacts": {
+    "twitter": "dave_saah"
+  }
+}
